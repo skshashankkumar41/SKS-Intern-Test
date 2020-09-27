@@ -45,8 +45,7 @@ def reAccuracyTotal(dfPath):
 
     return pred/actual 
 
-print(reAccuracySave('coupons_ner.csv'))
-print(reAccuracySign('coupons_ner.csv'))
-print(reAccuracyTotal('coupons_ner.csv'))
-
+print(reAccuracySave('../coupons_ner.csv'))
+print(reAccuracySign('../coupons_ner.csv'))
+print(reAccuracyTotal('../coupons_ner.csv'))
 # print(getFaceValue("SAVE $1.00 ON TWO when you buy TWO BOXES (8.9 - 15.2 OZ. EXCLUDES LARGE SIZE) any flavor/variety General Mills cereal listed: *"))
