@@ -3,7 +3,7 @@ import re
 import nltk
 from textblob import TextBlob
 from tqdm import tqdm
-import json
+import pickle
 
 # nltk.download('brown')
 # nltk.download('punkt')
@@ -50,7 +50,9 @@ for i in tqdm(range(df.shape[0])):
     
     train_data.append((string,{'entities':entity}))
 
-with open('excercise-2/train_data.json', 'w') as outfile:
-    json.dump({'train_data':train_data }, outfile)
+
+with open('excercise-2/train_data.pkl', 'wb') as f:
+    pickle.dump(train_data, f)
+
 
     
