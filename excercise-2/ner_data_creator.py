@@ -5,8 +5,8 @@ from textblob import TextBlob
 from tqdm import tqdm
 import pickle
 
-# nltk.download('brown')
-# nltk.download('punkt')
+nltk.download('brown')
+nltk.download('punkt')
 
 def prod(txt):
 
