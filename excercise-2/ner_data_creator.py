@@ -24,6 +24,8 @@ df = pd.read_csv('../coupons_ner.csv',names = ['OfferDetails'])
 
 df['Products'] = df['OfferDetails'].map(prod)
 
+df.to_csv('coupons_ner_preprocessed.csv',index = False)
+
 # https://towardsdatascience.com/train-ner-with-custom-training-data-using-spacy-525ce748fab7
 # creating data based on requirement of spacy library
 train_data = []

@@ -7,10 +7,10 @@ from tqdm import tqdm
 import pickle
 
 model = None
-output_dir = Path("excercise-2/NERModel")
+output_dir = Path("NERModel")
 n_iter = 1
 
-with open('excercise-2/train_data.pkl','rb') as file:
+with open('train_data.pkl','rb') as file:
     train_data = pickle.load(file)
 
 print(train_data)

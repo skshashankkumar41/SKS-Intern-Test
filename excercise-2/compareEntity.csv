@@ -1,0 +1,887 @@
+Actual,Prediction
+"['downy liquid fabric conditioner', 'downy odor', 'downy wrinkle guard', 'downy nature blends', 'bounce/downy sheets', 'bounce/downy wrinkle guard', 'scent boosters', 'downy unstopables', 'downy libre enjuague', 'gain fireworks']","['Downy Liquid Fabric Conditioner', 'Downy Odor', 'Downy Wrinkle Guard', 'Downy Nature Blends', 'Bounce/Downy Sheets', 'Bounce/Downy Wrinkle Guard', 'Scent Boosters', 'Downy Unstopables', 'Downy Libre Enjuague', 'Gain Fireworks']"
+"['tide pods', 'tide power pods', 'tide liquid/powder laundry detergent', 'tide pods']","['Tide PODS', 'Tide Power PODS', 'Tide Liquid/Powder Laundry Detergent']"
+"['tide laundry detergent', 'tide purclean laundry detergent', 'tide laundry detergent', 'tide pods', 'tide rescue', 'laundry detergent', 'tide detergent']","['Tide Laundry Detergent', 'Tide Purclean Laundry Detergent', 'Tide PODS', 'Tide Rescue', 'Tide Detergent']"
+['flavor/variety general mills cereal'],['flavor/variety General Mills cereal']
+['pepperidge farm® farmhouse buns'],['Pepperidge Farm® Farmhouse buns']
+"['chips ahoy', 'nutter butter cookies']","['CHIPS AHOY', 'NUTTER BUTTER Cookies']"
+['nature valley™ granola'],['Nature Valley™ Granola']
+['natural cheese slices'],['Natural Cheese Slices']
+"['oikos greek yogurt cup', 'oikos triple zero']","['Oikos Greek Yogurt Cup', 'Oikos Triple Zero']"
+"['small bag', ""o'clock® coffee"", 'barista blends']","['SMALL bag', ""O'Clock® Coffee"", 'Barista Blends']"
+"['laundry detergent', 'downy liquid fabric conditioner', 'bounce/downy sheets', 'in-wash scent boosters', 'era laundry detergent', 'downy unstopables', 'bounce/downy wrinkle guard sheets', 'downy libre enjuague', 'gain fireworks']","['Laundry Detergent', 'Downy Liquid Fabric Conditioner', 'Bounce/Downy Sheets', 'In-Wash Scent Boosters', 'ERA Laundry Detergent', 'Downy Unstopables', 'Bounce/Downy Wrinkle Guard Sheets', 'Downy Libre Enjuague', 'Gain Fireworks']"
+['flavor/variety betty crocker™ fruit shapes'],['flavor/variety Betty Crocker™ Fruit Shapes']
+"['frigo® cheese heads® 8ct', 'snack cheese product']","['Frigo® Cheese Heads® 8ct', 'Snack Cheese Product']"
+"['pace® salsa', 'picante sauce']","['Pace® Salsa', 'Picante Sauce']"
+['noosa® yoghurts'],['noosa® yoghurts']
+['gardein™ frozen item'],['Gardein™ Frozen Item']
+"['gain flings', 'gain liquid laundry detergent', 'gain botanicals', 'essential oils', 'gain powder laundry detergent', 'gain ultra flings', 'gain fabric enhancers', 'gain fireworks', 'gain flings']","['Gain Flings', 'Gain Liquid Laundry Detergent', 'Gain Botanicals', 'Essential Oils', 'Gain Powder Laundry Detergent', 'Gain Ultra Flings', 'Gain Fabric Enhancers', 'Gain Fireworks']"
+['energizer® batteries'],['Energizer® Batteries']
+"['purina® beggin®', 'dentalife® dog treats']","['Purina® Beggin®', 'DentaLife® Dog Treats']"
+['pine-sol® product'],['Pine-Sol® product']
+['flavor/variety cascadian farm™ cereal'],['flavor/variety Cascadian Farm™ Cereal']
+['crunchy crunchmaster® crackers'],['crunchy Crunchmaster® Crackers']
+"['dreft newborn laundry detergent', 'active baby laundry detergent', 'pure gentleness laundry detergent']","['Dreft Newborn Laundry Detergent', 'Active Baby Laundry Detergent', 'Pure Gentleness Laundry Detergent']"
+"['happy baby organics', 'happy tot organics pouches']","['Happy Baby Organics', 'Happy Tot Organics pouches']"
+"[""udi's® frozen item""]","[""Udi's® Frozen Item""]"
+"['downy liquid fabric conditioner 48ld', 'downy odor', 'downy wrinkle guard 25oz', 'downy nature blends', 'bounce/downy sheets 70ct', 'bounce/downy wrinkle guard 40ct', 'scent boosters 5.7oz', 'downy unstopables', 'rapid touch-up', 'downy wrinkle releaser spray', 'downy libre enjuague']","['Downy Liquid Fabric Conditioner 48ld', 'Downy Odor', 'Downy Wrinkle Guard 25oz', 'Downy Nature Blends', 'Bounce/Downy Sheets 70ct', 'Bounce/Downy Wrinkle Guard 40ct', 'Scent Boosters 5.7oz', 'Downy Unstopables', 'Rapid Touch-up', 'Downy Wrinkle Releaser Spray', 'Downy Libre Enjuague']"
+"['gain liquid fabric softener', 'gain botanicals', 'gain fireworks', 'scent boosters', 'gain dryer sheets', 'gain flings', 'gain detergent']","['Gain Liquid Fabric Softener', 'Gain Botanicals', 'Gain Fireworks', 'Scent Boosters', 'Gain Dryer Sheets', 'Gain Flings', 'Gain Detergent']"
+['tillamook® ice cream product'],['Tillamook® Ice Cream Product']
+"['benadryl® 20ct', '4oz product']","['BENADRYL® 20ct', '4oz product']"
+"['oral-b glide', 'manual floss', 'interdental brush']","['Oral-B Glide', 'Manual Floss', 'Interdental Brush']"
+[],[]
+['prilosec otc product'],['Prilosec OTC Product']
+"['’ s chocolate', 'chocolate candy']","['’s Chocolate', 'Chocolate Candy']"
+"['laundry detergent', 'era laundry detergent', 'tide detergent', 'tide pods']","['Laundry Detergent', 'ERA Laundry Detergent', 'Tide Detergent', 'Tide PODS']"
+[],[]
+"['tampax pearl', 'pure tampons']","['Tampax Pearl', 'PURE Tampons']"
+['adult zyrtec® product'],['Adult ZYRTEC® product']
+"['pure cotton', 'maxi pads']","['Pure Cotton', 'Maxi Pads']"
+"['® product', '® products']","['® Product&nbsp;(Excludes Club', '® Products']"
+"['glade® 3-wick candles', 'twin pack 3.4oz candles', 'oil refill pack', 'large automatic refills', '3.4oz candles', 'oil warmer']","['Twin Pack 3.4oz Candles', 'Oil Refill Pack', 'Large Automatic Refills', 'Oil Warmer']"
+"['multipack sheba®', 'perfect portions™ premium cat food']","['multipack SHEBA®', 'PERFECT PORTIONS™ Premium Cat Food']"
+"['crest gum detoxify', 'enamel repair']","['Crest Gum Detoxify', 'Enamel Repair']"
+['pull-ups® training pants'],['PULL-UPS® Training Pants']
+"['allegra® allergy 24ct', ""children 's allegra® product""]","['Allegra® Allergy 24ct', ""Children's Allegra® Product""]"
+"['gain flings', 'gain ultra flings', 'gain liquid/powder laundry detergent', 'gain fabric enhancers', 'gain fireworks', 'gain flings']","['Gain Flings', 'Gain Ultra Flings', 'Gain Liquid/Powder Laundry Detergent', 'Gain Fabric Enhancers', 'Gain Fireworks']"
+"['tide purclean laundry detergent', 'tide laundry detergent', 'tide detergent', 'tide pods', 'tide rescue', 'laundry detergent', 'tide detergent']","['Tide Purclean Laundry Detergent', 'Tide Detergent', 'Tide PODS', 'Tide Rescue', 'Tide Detergent']"
+"['starbucks® k-cup® coffee', 'essential vitamins', 'golden turmeric', '2x caffeine product']","['Starbucks® K-Cup® Coffee', 'Essential Vitamins', 'Golden Turmeric', '2X Caffeine Product']"
+[],[]
+"['dreft blissfuls', 'scent boosters']","['Dreft Blissfuls', 'Scent Boosters']"
+['nexium® 24hr 28ct'],['Nexium® 24HR 28ct']
+['aleve®pm product 40ct'],['Aleve®PM product 40ct']
+"['discreet incontinence product', 'discreet boutique']","['DISCREET Incontinence Product', 'Discreet Boutique']"
+"['all-natural poultry patties', 'ground chicken']","['All-Natural Poultry Patties', 'Ground Chicken']"
+['disposable swimpants'],['Disposable Swimpants']
+"['tide antibacterial spray', 'tide stain pen', 'tide rescue', 'tide laundry detergent', 'tide pods']","['Tide Antibacterial Spray', 'Tide Stain Pen', 'Tide Rescue', 'Tide Laundry Detergent', 'Tide PODS']"
+"['poise® ultra', 'thin pads', 'active collection® pads', 'reg pack', 'poise® pads', 'impressa® products']","['POISE® Ultra', 'Thin Pads', 'Active Collection® Pads', 'Reg Pack', 'Poise® Pads', 'Impressa® Products']"
+['pull-ups® training pants'],['PULL-UPS® Training Pants']
+['venus razor'],['Venus Razor']
+"['tide detergent', 'tide pods']","['Tide detergent', 'Tide PODS']"
+"['claritin® tabs', 'liqui-gels® 60ct']","['Claritin® Tabs', 'Liqui-Gels® 60ct']"
+['colgate® optic white® renewal toothpaste'],['Colgate® Optic White® Renewal Toothpaste']
+['dark chocolate dessert dip'],['Dark Chocolate Dessert Dip']
+"[""ck 's ice cream""]","[""N!ck's Ice Cream""]"
+"[""children 's claritin® syrup 4oz""]","[""Children's Claritin® Syrup 4oz""]"
+"['essential oils product', 'raid® club']",['Essential Oils Product&nbsp;(Excludes Raid® Club']
+['osteo bi-flex® product'],['Osteo Bi-Flex® product']
+['discreet boutique product'],['DISCREET Boutique Product']
+['sabra® veggie dip'],['Sabra® Veggie Dip']
+['florastor product'],['Florastor product']
+"[""reser 's deli sides 12-14oz item""]","[""Reser's Deli Sides 12-14oz Item""]"
+['nutro™ wholesome essentials™ dry cat food bag'],['NUTRO™ WHOLESOME ESSENTIALS™ Dry Cat Food bag']
+"['oral-b vitality', 'rechargeable electric toothbrush']","['Oral-B Vitality', 'Rechargeable Electric Toothbrush']"
+['olay facial moisturizer'],['Olay Facial Moisturizer']
+['burts bees adult toothpaste'],['Burts Bees Adult Toothpaste']
+['venus blade refill'],['Venus Blade Refill']
+"['high endurance', 'body spray', 'invisible spray']","['High Endurance', 'Body Spray', 'Invisible Spray']"
+['olay facial cleanser'],['Olay Facial Cleanser']
+['burts bees kids toothpaste'],['Burts Bees Kids Toothpaste']
+['gillette blade refill'],['Gillette Blade Refill']
+['venus products'],['Venus Products']
+"['gillette razor', 'venus products']","['Gillette Razor', 'Venus Products']"
+[],[]
+['natural cheese slices'],['Natural Cheese Slices']
+"['pace® salsa', 'picante sauce']","['Pace® Salsa', 'Picante Sauce']"
+"['free seg mac', 'spam® 12oz products', 'free seg mac', 'value $']","['FREE SEG MAC', 'SPAM® 12oz products', 'FREE SEG MAC', 'Value']"
+"['gain flings', 'gain liquid laundry detergent', 'gain botanicals', 'essential oils', 'gain powder laundry detergent', 'gain ultra flings', 'gain fabric enhancers', 'gain fireworks', 'gain flings']","['Gain Flings', 'Gain Liquid Laundry Detergent', 'Gain Botanicals', 'Essential Oils', 'Gain Powder Laundry Detergent', 'Gain Ultra Flings', 'Gain Fabric Enhancers', 'Gain Fireworks']"
+"['crest toothpaste', 'oz crest cavity', 'tartar control/protection', 'w pep gleem', 'gum detoxify', 'gum enamel variants', 'therapy variants']","['Crest Toothpaste', 'oz Crest Cavity', 'Tartar Control/Protection', 'F&amp;W Pep Gleem', 'Gum Detoxify', 'Gum Enamel variants', 'Therapy variants']"
+"['tide laundry detergent', 'tide purclean laundry detergent', 'tide laundry detergent', 'tide pods', 'tide rescue', 'laundry detergent', 'tide detergent']","['Tide Laundry Detergent', 'Tide Purclean Laundry Detergent', 'Tide PODS', 'Tide Rescue', 'Tide Detergent']"
+"['starbucks® nitro', 'cold brew', 'starbucks® frappucino', 'oz bottle']","['Starbucks® Nitro', 'Cold Brew', 'Starbucks® Frappucino', 'oz bottle']"
+"['downy liquid fabric conditioner 48ld', 'downy odor', 'downy wrinkle guard 25oz', 'downy nature blends', 'bounce/downy sheets 70ct', 'bounce/downy wrinkle guard 40ct', 'scent boosters 5.7oz', 'downy unstopables', 'rapid touch-up', 'downy wrinkle releaser spray', 'downy libre enjuague']","['Downy Liquid Fabric Conditioner 48ld', 'Downy Odor', 'Downy Wrinkle Guard 25oz', 'Downy Nature Blends', 'Bounce/Downy Sheets 70ct', 'Bounce/Downy Wrinkle Guard 40ct', 'Scent Boosters 5.7oz', 'Downy Unstopables', 'Rapid Touch-up', 'Downy Wrinkle Releaser Spray', 'Downy Libre Enjuague']"
+"['pure cotton', 'maxi pads']","['Pure Cotton', 'Maxi Pads']"
+"['laundry detergent', 'downy liquid fabric conditioner', 'bounce/downy sheets', 'in-wash scent boosters', 'era laundry detergent', 'downy unstopables', 'bounce/downy wrinkle guard sheets', 'downy libre enjuague', 'gain fireworks']","['Laundry Detergent', 'Downy Liquid Fabric Conditioner', 'Bounce/Downy Sheets', 'In-Wash Scent Boosters', 'ERA Laundry Detergent', 'Downy Unstopables', 'Bounce/Downy Wrinkle Guard Sheets', 'Downy Libre Enjuague', 'Gain Fireworks']"
+['energizer® batteries'],['Energizer® Batteries']
+"['frigo® cheese heads® 8ct', 'snack cheese product']","['Frigo® Cheese Heads® 8ct', 'Snack Cheese Product']"
+"['high endurance', 'body spray', 'invisible spray']","['High Endurance', 'Body Spray', 'Invisible Spray']"
+"['tide pods', 'tide power pods', 'tide liquid/powder laundry detergent', 'tide pods']","['Tide PODS', 'Tide Power PODS', 'Tide Liquid/Powder Laundry Detergent']"
+"['tampax pearl', 'pure tampons']","['Tampax Pearl', 'PURE Tampons']"
+"['glade® 3-wick candles', 'twin pack 3.4oz candles', 'oil refill pack', 'large automatic refills', '3.4oz candles', 'oil warmer']","['Twin Pack 3.4oz Candles', 'Oil Refill Pack', 'Large Automatic Refills', 'Oil Warmer']"
+['noosa® yoghurts'],['noosa® yoghurts']
+"['downy liquid fabric conditioner', 'downy odor', 'downy wrinkle guard', 'downy nature blends', 'bounce/downy sheets', 'bounce/downy wrinkle guard', 'scent boosters', 'downy unstopables', 'downy libre enjuague', 'gain fireworks']","['Downy Liquid Fabric Conditioner', 'Downy Odor', 'Downy Wrinkle Guard', 'Downy Nature Blends', 'Bounce/Downy Sheets', 'Bounce/Downy Wrinkle Guard', 'Scent Boosters', 'Downy Unstopables', 'Downy Libre Enjuague', 'Gain Fireworks']"
+"['purina® beggin®', 'dentalife® dog treats']","['Purina® Beggin®', 'DentaLife® Dog Treats']"
+['life cereal'],['Life cereal']
+['crunchy crunchmaster® crackers'],['crunchy Crunchmaster® Crackers']
+"['happy baby organics', 'happy tot organics pouches']","['Happy Baby Organics', 'Happy Tot Organics pouches']"
+"['gain liquid fabric softener', 'gain botanicals', 'gain fireworks', 'scent boosters', 'gain dryer sheets', 'gain flings', 'gain detergent']","['Gain Liquid Fabric Softener', 'Gain Botanicals', 'Gain Fireworks', 'Scent Boosters', 'Gain Dryer Sheets', 'Gain Flings', 'Gain Detergent']"
+['pine-sol® product'],['Pine-Sol® product']
+"['keebler® caramel nut dreams', 'coconut dreams', 'strawberry shortcake', 'hot fudge sundae cookies']","['Keebler® Caramel Nut Dreams', 'Coconut Dreams', 'Strawberry Shortcake', 'Hot Fudge Sundae cookies']"
+"['oral-b glide', 'manual floss', 'interdental brush']","['Oral-B Glide', 'Manual Floss', 'Interdental Brush']"
+"['benadryl® 20ct', '4oz product']","['BENADRYL® 20ct', '4oz product']"
+['pull-ups® training pants'],['PULL-UPS® Training Pants']
+"[""reser 's deli sides 12-14oz item""]","[""Reser's Deli Sides 12-14oz Item""]"
+['el monterey® single'],['El Monterey® Single']
+"['discreet incontinence product', 'discreet boutique']","['DISCREET Incontinence Product', 'Discreet Boutique']"
+['venus products'],['Venus Products']
+"['good foods guacamole', 'dairy dip']","['GOOD FOODS Guacamole', 'Dairy Dip']"
+['aleve®pm product 40ct'],['Aleve®PM product 40ct']
+['snack crackers caddy pack'],['Snack Crackers Caddy Pack']
+"['laundry detergent', 'era laundry detergent', 'tide detergent', 'tide pods']","['Laundry Detergent', 'ERA Laundry Detergent', 'Tide Detergent', 'Tide PODS']"
+"['® product', '® products']","['® Product(Excludes Club', '® Products']"
+[],[]
+['olay facial cleanser'],['Olay Facial Cleanser']
+['prilosec otc product'],['Prilosec OTC Product']
+['gillette blade refill'],['Gillette Blade Refill']
+"['gain flings', 'gain ultra flings', 'gain liquid/powder laundry detergent', 'gain fabric enhancers', 'gain fireworks', 'gain flings']","['Gain Flings', 'Gain Ultra Flings', 'Gain Liquid/Powder Laundry Detergent', 'Gain Fabric Enhancers', 'Gain Fireworks']"
+['pull-ups® training pants'],['PULL-UPS® Training Pants']
+"['crest gum detoxify', 'enamel repair']","['Crest Gum Detoxify', 'Enamel Repair']"
+"['gillette razor', 'venus products']","['Gillette Razor', 'Venus Products']"
+"['’ s chocolate', 'chocolate candy']","['’s Chocolate', 'Chocolate Candy']"
+['adult zyrtec® product'],['Adult ZYRTEC® product']
+"['allegra® allergy 24ct', ""children 's allegra® product""]","['Allegra® Allergy 24ct', ""Children's Allegra® Product""]"
+"['dreft newborn laundry detergent', 'active baby laundry detergent', 'pure gentleness laundry detergent']","['Dreft Newborn Laundry Detergent', 'Active Baby Laundry Detergent', 'Pure Gentleness Laundry Detergent']"
+['variety 11oz'],['variety 11oz']
+"['multipack sheba®', 'perfect portions™ premium cat food']","['multipack SHEBA®', 'PERFECT PORTIONS™ Premium Cat Food']"
+['olay facial moisturizer'],['Olay Facial Moisturizer']
+['venus razor'],['Venus Razor']
+[],[]
+['disposable swimpants'],['Disposable Swimpants']
+['osteo bi-flex® product'],['Osteo Bi-Flex® product']
+['nexium® 24hr 28ct'],['Nexium® 24HR 28ct']
+['venus blade refill'],['Venus Blade Refill']
+['colgate® optic white® renewal toothpaste'],['Colgate® Optic White® Renewal Toothpaste']
+"[""children 's claritin® syrup 4oz""]","[""Children's Claritin® Syrup 4oz""]"
+['nutro™ wholesome essentials™ dry cat food bag'],['NUTRO™ WHOLESOME ESSENTIALS™ Dry Cat Food bag']
+['florastor product'],['Florastor product']
+"['oral-b vitality', 'rechargeable electric toothbrush']","['Oral-B Vitality', 'Rechargeable Electric Toothbrush']"
+['open nature product'],['Open Nature Product']
+['bakery department purchase'],['Bakery Department Purchase']
+['frozen aisle purchase'],['Frozen Aisle Purchase']
+['department purchase'],['Department Purchase']
+['golden ripe bananas plu'],['Golden Ripe Bananas PLU']
+['select refreshe water 24-pack'],['SELECT refreshe Water 24-pack']
+['calidad tortilla chips'],['Calidad Tortilla Chips']
+['chobani greek yogurt 5.3-oz'],['Chobani Greek Yogurt 5.3-oz']
+[],[]
+['lucerne butter 16-oz'],['Lucerne Butter 16-oz']
+['super yellow corn tortillas 24-ct'],[]
+['barilla pasta'],['Barilla Pasta']
+['*standard exclusions'],['*Standard exclusions']
+"['visa® gift cards', 'visa® gift cards']",['Visa® Gift Cards']
+['signature farms romaine hearts 3-ct. limit'],['Signature Farms Romaine Hearts 3-ct. Limit']
+['fresh cravings dip 8-10-oz'],['Fresh Cravings Dip 8-10-oz']
+['litehouse® organic'],['Litehouse® Organic']
+['caspers franks 16-oz'],['Caspers Franks 16-oz']
+"['aidells gourmet chicken sausage', 'aidells meatballs']","['Aidells Gourmet Chicken Sausage', 'Aidells meatballs']"
+"['signature farms', 'lean ground beef mega-pack']","['Signature Farms', 'Lean Ground Beef Mega-pack']"
+['meal kits 22.2-32.5-oz'],['22.2-32.5-oz']
+"['tazo tea 75-100-ct. lipton', '20-ct. tazo']","['Tazo Tea 75-100-ct. Lipton', '20-ct. Tazo']"
+['glacéau smartwater sport 700-ml'],['Glacéau smartwater Sport 700-ml']
+['orange juice 52-oz'],['Orange Juice 52-oz']
+['7-up 2-ltr'],['7-UP 2-ltr']
+['gatorade 8-pk.'],['Gatorade 8-pk.']
+"['dr pepper', 'cream ...', 'diet dr. pepper', 'cream soda', 'free ...']","['Dr Pepper', 'Cream', 'Diet Dr. Pepper', 'Cream Soda', 'FREE']"
+['san pellegrino soda 6-pk.'],['San Pellegrino Soda 6-pk.']
+"['select apple juice', 'lemonade 64-oz']","['SELECT Apple Juice', 'Lemonade 64-oz']"
+"['green mountain coffee roasters', 'original donut shop', '12-32-ct. k-cup pods']","['Green Mountain Coffee Roasters', 'Original Donut Shop', '12-32-ct. k-cup pods']"
+['kevita® bottles'],['KeVita® bottles']
+"['naked® juice', '15.2oz naked® juice bottles']","['Naked® Juice', '15.2oz Naked® Juice bottles']"
+"['hint® water', 'hint® water']",['Hint® Water']
+"['arrowhead® brand water', 'arrowhead® spring water case ...']","['Arrowhead® Brand Water', 'Arrowhead® Spring Water Case']"
+"['starbucks® ground coffee', 'essential vitamins']","['Starbucks® Ground Coffee', 'Essential Vitamins']"
+"['starbucks® k-cup® coffee', 'essential vitamins']","['Starbucks® K-Cup® Coffee', 'Essential Vitamins']"
+['glaceau smartwater 12-pk.'],['Glaceau smartwater 12-pk.']
+['glaceau smartwater 6-pk.'],['Glaceau smartwater 6-pk.']
+['silk almondmilk half-gallon'],['Silk Almondmilk Half-gallon']
+['lucerne cheese 6-8-oz'],['Lucerne Cheese 6-8-oz']
+['creamer 32-oz'],['Creamer 32-oz']
+"['galbani string', 'cheese 10-12-oz']",['Cheese 10-12-oz']
+['dannon greek yogurt 4-pack'],['Dannon Greek Yogurt 4-pack']
+['chobani greek yogurt 32-oz'],['Chobani Greek Yogurt 32-oz']
+"['danish creamery butter 16-oz', 'spreadable butter ...']","['Danish Creamery Butter 16-oz', 'spreadable butter']"
+"['sargento snack bites', 'sargento snack bites']",['Sargento Snack Bites']
+[],[]
+['natural cheese slices'],['Natural Cheese Slices']
+"['blue yogurt', 'blue yogurt cup', 'triple zero']","['Blue Yogurt', 'Blue Yogurt Cup', 'Triple Zero']"
+"['frigo® cheese heads® cheese', 'frigo® cheese heads® 8ct', 'snack cheese ...']","['Frigo® Cheese Heads® Cheese', 'Frigo® Cheese Heads® 8ct', 'Snack Cheese']"
+"['noosa® yoghurt', 'noosa® yoghurts']","['noosa® Yoghurt', 'noosa® yoghurts']"
+['hennessy vs 750-ml'],['Hennessy VS 750-ml']
+"['elysian family', 'golden ...']","['Elysian Family', 'Golden']"
+"['8-can variety', 'crook ...']","['Crook', '8-can variety']"
+"['z wineworks', '750ml bottles', 'z wineworks wine']","['Z Wineworks', '750ml bottles', 'Z Wineworks wine']"
+['hard seltzer'],['Hard Seltzer']
+"['anheuser-busch multi brand', 'bud light®']",['Anheuser-Busch Multi Brand']
+"['erath oregon', '750ml bottles', 'erath oregon ...']","['Erath', '750ml bottles']"
+"['anchor steam', 'anchor california lager']",['Anchor Steam']
+"['pineapple juice', 'pineapple juice']",['Pineapple Juice']
+"['altos™ tequila', 'taco essentials', '750ml bottle ...']","['ALTOS™ Tequila', 'taco essentials', '750ml bottle']"
+"['ketel one® botanicals', 'ketel one® botanicals']",['KETEL ONE® BOTANICALS']
+"['absolut® vodka', '750ml bottle ...']","['ABSOLUT® VODKA', '750ml bottle']"
+"['jameson® irish whiskey', '750ml bottle', 'jameson® irish whiskey']","['JAMESON® Irish Whiskey', '750ml bottle']"
+"['beefeater® london dry gin', 'tonic water', '750ml ...']","['BEEFEATER® London Dry Gin', 'tonic water', '750ml']"
+"['stella artois®', 'stella artois® products']","['Stella Artois®', 'Stella Artois® products']"
+"['tequila avión®', '750ml bottle', 'tequila avión® silver']",['750ml bottle']
+['clausthaler beer 6-pack'],['Clausthaler beer 6-Pack']
+"[""mike 's"", 'hard lemonade', ""mike 's"", 'hard lemonade']","[""Mike's"", 'Hard Lemonade']"
+"['san simeon', 'maddalena wine $', 'purchase ...']","['San Simeon', 'Maddalena Wine', 'purchase']"
+['kendall-jackson wine $'],['Kendall-Jackson Wine']
+"['pacifico clara', 'pacifico clara ...']",['Pacifico Clara']
+['modelo ...'],['Modelo']
+['12-pack kona® beer'],['12-pack Kona® beer']
+['cupcake® wine $'],['Cupcake® Wine']
+['corona ...'],['CORONA']
+['corona $'],['CORONA']
+"['russian standard®', 'original vodka', 'liter bottle', 'russian standard®', 'original ...']","['Russian Standard®', 'Original', 'Liter Bottle']"
+"['new belgium beer', 'new belgium beer']",['New Belgium Beer']
+"['ace kicker $', '750ml ...']","['Ace Kicker', '750ml']"
+"['gentleman jack®', 'gentleman jack']",['Gentleman Jack']
+"['st. huberts', 'stag recieve $', '750ml bottles', 'st ...']","['Stag Recieve', '750ml bottles']"
+['imagery wines'],['Imagery Wines']
+['bulleit ...'],['BULLEIT']
+"['smirnoff ice', 'smirnoff seltzer', 'smirnoff ice', 'smirnoff seltzer']","['SMIRNOFF ICE', 'SMIRNOFF SELTZER']"
+"['grand marnier®', 'grand marnier® 750ml']",[]
+[],[]
+"['ketel one®', 'ketel one® vodka ...']","['KETEL ONE®', 'KETEL ONE® Vodka']"
+"['high noon® sun sips', 'high noon® sun sips']",['High Noon® Sun Sips']
+['risata $'],['Risata']
+"['coca-cola® 10pk', 'oz ...']","['COCA-COLA® 10PK', 'OZ']"
+"['petal® vodka', '750ml bottle', 'petal® ...']","['PETAL® VODKA', '750ML BOTTLE']"
+['tanqueray london dry ...'],['TANQUERAY London Dry']
+[],[]
+"['don julio', 'don julio blanco tequila']","['DON JULIO', 'DON JULIO Blanco Tequila']"
+"['bombay sapphire® gin', '750ml bottle', 'bombay sapphire® ...']","['SAPPHIRE® GIN', '750ML BOTTLE']"
+['yes way rosé $'],['Yes Way Rosé']
+"['smirnoff seltzer', 'bottle ...']","['SMIRNOFF Seltzer', 'bottle']"
+"['signature cafe 8-piece', 'dark meat', '... 4-each']","['Cafe 8-Piece', 'Dark Meat', '4-each']"
+"['primo taglio ham', 'turkey breast', 'white ...']","['Primo Taglio Ham', 'Turkey Breast', 'White']"
+['wellington water crackers 4.4-oz'],['Wellington Water Crackers 4.4-oz']
+['mini babybel cheese 6-ct'],['Mini Babybel Cheese 6-ct']
+"['signature cafe', 'chicken 28-34-oz']",['Chicken 28-34-oz']
+['signature cafe side entrée 12-16-oz'],['Cafe Side Entrée 12-16-oz']
+"[""reser's® deli salad""]","[""Reser's® Deli Salad""]"
+[],[]
+"['crest gum detoxify', 'enamel repair']","['Crest Gum Detoxify', 'Enamel Repair']"
+"['crest whitestrips', 'crest 3d', 'white whitestrips kit']","['Crest Whitestrips', 'Crest 3D', 'White Whitestrips Kit']"
+['fixodent adhesive'],['Fixodent Adhesive']
+"['oral b', 'oral-b adult', 'manual toothbrush']","['Oral B', 'Oral-B Adult', 'Manual Toothbrush']"
+['prilosec otc product'],['Prilosec OTC Product']
+"['crest / scope', 'crest mouthwash']","['Crest / Scope', 'Crest Mouthwash']"
+"['crest 3d', 'therapy enamel care']","['Crest 3D', 'Therapy Enamel Care']"
+"['oral b', 'oral-b glide', 'manual floss', 'interdental ...']","['Oral B', 'Oral-B Glide', 'Manual Floss', 'Interdental']"
+"['crest toothpaste', 'oz crest ...']","['Crest Toothpaste', 'oz Crest']"
+"['crest gum detoxify', 'enamel repair']","['Crest Gum Detoxify', 'Enamel Repair']"
+"['oral b', 'oral-b vitality', 'rechargeable electric ...']","['Oral B', 'Oral-B Vitality', 'Rechargeable Electric']"
+"['colgate® optic white®', 'colgate® optic white® renewal toothpaste', 'oz ...']","['Colgate® Optic White®', 'Colgate® Optic White® Renewal Toothpaste', 'oz']"
+[],[]
+"['playtex® sport®', 'o.b.® tampons']","['Playtex® Sport®', 'o.b.® Tampons']"
+"['nexium® 24hr', 'nexium® 24hr 28ct']","['Nexium® 24HR', 'Nexium® 24HR 28ct']"
+['cetaphil® product'],['Cetaphil® Product']
+['differin® product'],['Differin® Product']
+"['boost® nutritional drinks', 'drink mixes', 'boost® nutritional drinks', 'drink mixes']","['BOOST®', 'Drink Mixes']"
+"['one® brands', 'one® brands protein']",['ONE® Brands protein']
+"['osteo bi-flex®', 'osteo bi-flex® product']","['Osteo Bi-Flex®', 'Osteo Bi-Flex® product']"
+['clif bar®'],['CLIF BAR®']
+"['benadryl® 20ct', '4oz product ...']","['BENADRYL® 20ct', '4oz product']"
+['cool mint chewables'],['Cool Mint Chewables']
+['claritin-d® 15ct'],['Claritin-D® 15ct']
+"[""children 's claritin® syrup 4oz""]","[""Children's Claritin® Syrup 4oz""]"
+"[""children 's claritin® chewables 20ct""]","[""Children's Claritin® Chewables 20ct""]"
+['ensure multi-pack shakes'],['Ensure Multi-Pack Shakes']
+['aleve®pm product 40ct'],['Aleve®PM product 40ct']
+"['adult zyrtec®', 'adult zyrtec® product', 'variety ...']","['Adult ZYRTEC®', 'Adult ZYRTEC® product', 'variety']"
+['florastor product'],['Florastor product']
+['allegra® allergy 24ct'],['Allegra® Allergy 24ct']
+['dixie tableware 40-94-ct'],['Dixie Tableware 40-94-ct']
+['charcoal ... 12-16-lb'],[]
+"['blue ribbon', 'blue ribbon 30pk']","['Blue Ribbon', 'Blue Ribbon 30pk']"
+"['tide laundry detergent', 'tide ...']","['Tide', 'Tide Laundry Detergent']"
+"['tide pods', 'tide liquid/powder ...']","['Tide', 'Tide PODS', 'Tide Liquid/Powder']"
+[],[]
+"['gain flings', 'gain liquid ...']","['Gain Flings', 'Gain Liquid']"
+"['gain liquid fabric softener', 'gain fireworks']","['Gain Liquid Fabric Softener', 'Gain Fireworks']"
+"['raid® wasp', 'hornet product']","['Raid® Wasp', 'Hornet Product']"
+['® brand product'],['® brand product']
+"['essential oils product', 'raid® ...']",['Essential Oils Product']
+"['® product', 'twin ...']","['® Product', 'Twin']"
+['tillamook ice cream 1.75-qt'],['Tillamook Ice Cream 1.75-qt']
+['popsicle novelties 9-18-ct'],['Popsicle Novelties 9-18-ct']
+['pepperidge farm turnovers 12.5-oz'],['Pepperidge Farm Turnovers 12.5-oz']
+['select frozen dessert 8-9.87-oz'],['SELECT Frozen Dessert 8-9.87-oz']
+['select ice cream 1.5-qt'],['SELECT Ice Cream 1.5-qt']
+"['tillamook® ice cream', 'tillamook® ice cream products']","['Tillamook® Ice Cream', 'Tillamook® Ice Cream Products']"
+"['valsoia dairy', 'free gelato']","['Valsoia Dairy', 'Free Gelato']"
+"['bubbies ice cream', 'bubbies mochi', 'cookie dough ice cream bites ...']","['Bubbies Ice Cream', 'Bubbies Mochi', 'Cookie Dough Ice Cream Bites']"
+['cheez-it snack mix 40-oz'],['Cheez-It Snack Mix 40-oz']
+['ghirardelli chocolate'],['Ghirardelli Chocolate']
+['pepperidge farm goldfish crackers 6-8-oz'],['Pepperidge Farm Goldfish Crackers 6-8-oz']
+['cheez-it crackers 8.7-12.4-oz'],['Cheez-It Crackers 8.7-12.4-oz']
+['planters peanuts 16-oz'],['Planters Peanuts 16-oz']
+['calidad tortilla chips 11.5-12-oz'],['Calidad Tortilla Chips 11.5-12-oz']
+['nuts 5-8.5-oz limit'],['Nuts 5-8.5-oz Limit']
+['select cookie thins 7-oz'],['SELECT Cookie Thins 7-oz']
+['select cheese crunchies 8-oz'],['SELECT Cheese Crunchies 8-oz']
+"[""werther 's"", 'original popcorn', ""werther 's"", 'original popcorn 6oz bag']","[""Werther's"", 'Original Popcorn', 'Original Popcorn 6oz bag']"
+"['chudabeef jerky product', 'chudabeef jerky product']",['Chudabeef Jerky Product']
+"['’ s chocolate', '’ s chocolate', 'chocolate candy']","['’s Chocolate', '’s Chocolate', 'Chocolate Candy']"
+"[""nature 's"", 'bread 22-oz', ""nature 's"", 'own buns']","[""Nature's"", 'Bread 22-oz', 'Own buns']"
+"[""dave 's killer"", 'bread 20.5-oz']","[""Dave's Killer"", 'Bread 20.5-oz']"
+"[""alfaro 's artesano buns 14.5-15-oz"", ""alfaro 's artesano bread""]","[""Alfaro's Artesano Buns 14.5-15-oz"", ""Alfaro's Artesano bread""]"
+"['oroweat organic breakfast items 13-13.75-oz', 'oroweat organic']",['Oroweat Organic']
+['select madeleine cookies 14-oz'],['SELECT Madeleine Cookies 14-oz']
+['select petite brownie bites 24-oz'],['SELECT Petite Brownie Bites 24-oz']
+['select french bread 1-each'],['SELECT French Bread 1-each']
+"['sun-maid raisin bread', 'sun-maid raisin bread 16oz']","['Sun-Maid Raisin Bread', 'Sun-Maid Raisin Bread 16oz']"
+"[""nature 's"", 'brioche ...', ""nature 's"", 'brioche style ...']","[""Nature's"", 'Brioche', 'Brioche Style']"
+"[""sweet baby ray 's barbecue sauce 18-oz""]","[""Sweet Baby Ray's Barbecue Sauce 18-oz""]"
+"['duncan hines', 'classic cake', 'brownie mix 15.25-18-oz']",['Brownie Mix 15.25-18-oz']
+['select snack olives 1.05-oz'],['SELECT Snack Olives 1.05-oz']
+"['general mills', 'large cereal 12-16.8-oz', 'nature valley protein']","['General Mills', 'Large Cereal 12-16.8-oz', 'Nature Valley Protein']"
+['signature pet care™ wet cat food'],['Signature Pet Care™ Wet Cat Food']
+['signature pet care™ wet dog food'],['Signature Pet Care™ Wet Dog Food']
+['signature pet care™ training pads 30-100-ct. limit'],['Signature Pet Care™ Training Pads 30-100-ct. Limit']
+['signature pet care™ bird feed 4-7-lb'],['Signature Pet Care™ Bird Feed 4-7-lb']
+['signature pet care™ dog jerky 10-ct. limit'],['Signature Pet Care™ Dog Jerky 10-ct. Limit']
+"['homestyle recipe®', 'blue delights®', 'blue ...']","['BLUE', 'Homestyle Recipe®', 'BLUE Delights®']"
+"['blue life protection formula® dog food', 'blue ...']","['BLUE', 'BLUE Life Protection Formula® Dog Food']"
+"['blue dog', 'cat treats']","['BLUE', 'BLUE dog', 'cat treats']"
+"['purina® beggin®', 'dentalife® dog treats ...']","['Purina® Beggin®', 'DentaLife® Dog Treats']"
+"['perfect portions™', 'perfect portions™ premium cat food']","['PERFECT PORTIONS™', 'PERFECT PORTIONS™ Premium Cat Food']"
+"['perfect portions™', 'multipack sheba®', 'perfect portions™ ...']","['PERFECT PORTIONS™', 'multipack SHEBA®']"
+['yolks® 8oz'],['No Yolks® 8oz']
+['mission flour burrito tortillas 8-ct'],['Mission Flour Burrito Tortillas 8-ct']
+"['pace® salsa', 'picante sauce', 'pace® salsa', 'picante sauce']","['Pace® Salsa', 'Picante Sauce']"
+"['bag pampers', 'pure diapers']","['BAG Pampers', 'Pure Diapers']"
+"['bag pampers', 'easy ups training underwear', 'underjams ...']","['Bag Pampers', 'Easy Ups Training Underwear', 'UnderJams']"
+"['pampers / luvs', 'luvs wipes']","['Pampers / Luvs', 'Luvs Wipes']"
+['special delivery™ diapers ...'],['Special DELIVERY™ Diapers']
+"['bag pampers swaddlers', 'baby dry diapers ...']",['BAG Pampers Swaddlers']
+['pull-ups® training pants'],['PULL-UPS® Training Pants']
+['pull-ups® training pants'],['PULL-UPS® Training Pants']
+['swimmers® ...'],['SWIMMERS®']
+"['happy baby organics', 'happy tot organics', 'happy baby organics', 'happy tot organics ...']","['Happy Baby Organics', 'Happy Tot Organics']"
+"[""bush 's best® bean dip""]","[""BUSH'S BEST® Bean Dip""]"
+['goodcatch® tuna item'],['1)GOODCATCH® Tuna Item']
+"['lb bag', 'green anjou pears']","['lb Bag', 'Green Anjou']"
+[],[]
+['breyers® ice cream'],['Breyers® Ice Cream']
+"['pace® salsa', 'picante sauce']","['Pace® Salsa', 'Picante Sauce']"
+['natural cheese slices'],['Natural Cheese Slices']
+"['gain flings', 'gain liquid laundry detergent', 'gain botanicals', 'essential oils', 'gain powder laundry detergent', 'gain ultra flings', 'gain fabric enhancers', 'gain fireworks', 'gain flings']","['Gain Flings', 'Gain Liquid Laundry Detergent', 'Gain Botanicals', 'Essential Oils', 'Gain Powder Laundry Detergent', 'Gain Ultra Flings', 'Gain Fabric Enhancers', 'Gain Fireworks']"
+"['tide laundry detergent', 'tide purclean laundry detergent', 'tide laundry detergent', 'tide pods', 'tide rescue', 'laundry detergent', 'tide detergent']","['Tide Laundry Detergent', 'Tide Purclean Laundry Detergent', 'Tide PODS', 'Tide Rescue', 'Tide Detergent']"
+"['frigo® cheese heads® 8ct', 'snack cheese product']","['Frigo® Cheese Heads® 8ct', 'Snack Cheese Product']"
+"['downy liquid fabric conditioner 48ld', 'downy odor', 'downy wrinkle guard 25oz', 'downy nature blends', 'bounce/downy sheets 70ct', 'bounce/downy wrinkle guard 40ct', 'scent boosters 5.7oz', 'downy unstopables', 'rapid touch-up', 'downy wrinkle releaser spray', 'downy libre enjuague']","['Downy Liquid Fabric Conditioner 48ld', 'Downy Odor', 'Downy Wrinkle Guard 25oz', 'Downy Nature Blends', 'Bounce/Downy Sheets 70ct', 'Bounce/Downy Wrinkle Guard 40ct', 'Scent Boosters 5.7oz', 'Downy Unstopables', 'Rapid Touch-up', 'Downy Wrinkle Releaser Spray', 'Downy Libre Enjuague']"
+"['crest toothpaste', 'oz crest cavity', 'tartar control/protection', 'w pep gleem', 'gum detoxify', 'gum enamel variants', 'therapy variants']","['Crest Toothpaste', 'oz Crest Cavity', 'Tartar Control/Protection', 'F&amp;W Pep Gleem', 'Gum Detoxify', 'Gum Enamel variants', 'Therapy variants']"
+"[""hellmann's® mayonnaise""]","[""HELLMANN'S®""]"
+['perfect portions™ premium cat food'],['PERFECT PORTIONS™ Premium Cat Food']
+"['gain liquid fabric softener', 'gain botanicals', 'gain fireworks', 'scent boosters', 'gain dryer sheets', 'gain flings', 'gain detergent']","['Gain Liquid Fabric Softener', 'Gain Botanicals', 'Gain Fireworks', 'Scent Boosters', 'Gain Dryer Sheets', 'Gain Flings', 'Gain Detergent']"
+"['downy liquid fabric conditioner', 'downy odor', 'downy wrinkle guard', 'downy nature blends', 'bounce/downy sheets', 'bounce/downy wrinkle guard', 'scent boosters', 'downy unstopables', 'downy libre enjuague', 'gain fireworks']","['Downy Liquid Fabric Conditioner', 'Downy Odor', 'Downy Wrinkle Guard', 'Downy Nature Blends', 'Bounce/Downy Sheets', 'Bounce/Downy Wrinkle Guard', 'Scent Boosters', 'Downy Unstopables', 'Downy Libre Enjuague', 'Gain Fireworks']"
+"['tide pods', 'tide power pods', 'tide liquid/powder laundry detergent', 'tide pods']","['Tide PODS', 'Tide Power PODS', 'Tide Liquid/Powder Laundry Detergent']"
+"['pure cotton', 'maxi pads']","['Pure Cotton', 'Maxi Pads']"
+"['oikos greek yogurt cup', 'oikos triple zero']","['Oikos Greek Yogurt Cup', 'Oikos Triple Zero']"
+['energizer® batteries'],['Energizer® Batteries']
+"['purina® beggin®', 'dentalife® dog treats']","['Purina® Beggin®', 'DentaLife® Dog Treats']"
+"['liquid fabric softener', 'downy unstopables']","['Liquid Fabric Softener', 'Downy Unstopables']"
+"['high endurance', 'body spray', 'invisible spray']","['High Endurance', 'Body Spray', 'Invisible Spray']"
+"['laundry detergent', 'downy liquid fabric conditioner', 'bounce/downy sheets', 'in-wash scent boosters', 'era laundry detergent', 'downy unstopables', 'bounce/downy wrinkle guard sheets', 'downy libre enjuague', 'gain fireworks']","['Laundry Detergent', 'Downy Liquid Fabric Conditioner', 'Bounce/Downy Sheets', 'In-Wash Scent Boosters', 'ERA Laundry Detergent', 'Downy Unstopables', 'Bounce/Downy Wrinkle Guard Sheets', 'Downy Libre Enjuague', 'Gain Fireworks']"
+"['tampax pearl', 'pure tampons']","['Tampax Pearl', 'PURE Tampons']"
+['pull-ups® training pants'],['PULL-UPS® Training Pants']
+"[""reser 's deli sides 12-14oz item""]","[""Reser's Deli Sides 12-14oz Item""]"
+"['glade® 3-wick candles', 'twin pack 3.4oz candles', 'oil refill pack', 'large automatic refills', '3.4oz candles', 'oil warmer']","['Twin Pack 3.4oz Candles', 'Oil Refill Pack', 'Large Automatic Refills', 'Oil Warmer']"
+['pine-sol® product'],['Pine-Sol® product']
+"['gain flings', 'gain ultra flings', 'gain liquid/powder laundry detergent', 'gain fabric enhancers', 'gain fireworks', 'gain flings']","['Gain Flings', 'Gain Ultra Flings', 'Gain Liquid/Powder Laundry Detergent', 'Gain Fabric Enhancers', 'Gain Fireworks']"
+"['benadryl® 20ct', '4oz product']","['BENADRYL® 20ct', '4oz product']"
+"['discreet incontinence product', 'discreet boutique']","['DISCREET Incontinence Product', 'Discreet Boutique']"
+"['laundry detergent', 'era laundry detergent', 'tide detergent', 'tide pods']","['Laundry Detergent', 'ERA Laundry Detergent', 'Tide Detergent', 'Tide PODS']"
+"['’ s chocolate', 'chocolate candy']","['’s Chocolate', 'Chocolate Candy']"
+['venus products'],['Venus Products']
+['flavor/variety cascadian farm™ cereal'],['flavor/variety Cascadian Farm™ Cereal']
+['crunchy crunchmaster® crackers'],['crunchy Crunchmaster® Crackers']
+[],[]
+"['multipack sheba®', 'perfect portions™ premium cat food']","['multipack SHEBA®', 'PERFECT PORTIONS™ Premium Cat Food']"
+['aleve®pm product 40ct'],['Aleve®PM product 40ct']
+['gillette blade refill'],['Gillette Blade Refill']
+[],[]
+['prilosec otc product'],['Prilosec OTC Product']
+['olay facial cleanser'],['Olay Facial Cleanser']
+"['happy baby organics', 'happy tot organics pouches']","['Happy Baby Organics', 'Happy Tot Organics pouches']"
+['drink product'],['Drink product']
+"['crest gum detoxify', 'enamel repair']","['Crest Gum Detoxify', 'Enamel Repair']"
+"['oral-b glide', 'manual floss', 'interdental brush']","['Oral-B Glide', 'Manual Floss', 'Interdental Brush']"
+['pull-ups® training pants'],['PULL-UPS® Training Pants']
+"['dreft newborn laundry detergent', 'active baby laundry detergent', 'pure gentleness laundry detergent']","['Dreft Newborn Laundry Detergent', 'Active Baby Laundry Detergent', 'Pure Gentleness Laundry Detergent']"
+"['allegra® allergy 24ct', ""children 's allegra® product""]","['Allegra® Allergy 24ct', ""Children's Allegra® Product""]"
+['adult zyrtec® product'],['Adult ZYRTEC® product']
+['olay facial moisturizer'],['Olay Facial Moisturizer']
+"['gillette razor', 'venus products']","['Gillette Razor', 'Venus Products']"
+"['dreft blissfuls', 'scent boosters']","['Dreft Blissfuls', 'Scent Boosters']"
+['nexium® 24hr 28ct'],['Nexium® 24HR 28ct']
+['nutro™ wholesome essentials™ dry cat food bag'],['NUTRO™ WHOLESOME ESSENTIALS™ Dry Cat Food bag']
+[],[]
+"['® product', '® products']","['® Product(Excludes Club', '® Products']"
+['venus blade refill'],['Venus Blade Refill']
+['venus razor'],['Venus Razor']
+"['tide purclean laundry detergent', 'tide laundry detergent', 'tide detergent', 'tide pods', 'tide rescue', 'laundry detergent', 'tide detergent']","['Tide Purclean Laundry Detergent', 'Tide Detergent', 'Tide PODS', 'Tide Rescue', 'Tide Detergent']"
+['burts bees adult toothpaste'],['Burts Bees Adult Toothpaste']
+['osteo bi-flex® product'],['Osteo Bi-Flex® product']
+"[""children 's claritin® syrup 4oz""]","[""Children's Claritin® Syrup 4oz""]"
+"['tide detergent', 'tide pods']","['Tide detergent', 'Tide PODS']"
+['international aisle'],['International Aisle']
+['disposable swimpants'],['Disposable Swimpants']
+"[""children 's claritin® chewables 20ct"", ""children 's reditab®""]","[""Children's Claritin® Chewables 20ct"", ""Children's Reditab®""]"
+['colgate® optic white® renewal toothpaste'],['Colgate® Optic White® Renewal Toothpaste']
+"['tide antibacterial spray', 'tide stain pen', 'tide rescue', 'tide laundry detergent', 'tide pods']","['Tide Antibacterial Spray', 'Tide Stain Pen', 'Tide Rescue', 'Tide Laundry Detergent', 'Tide PODS']"
+"['essential oils product', 'raid® club']",['Essential Oils Product(Excludes Raid® Club']
+"['triscuit cheddar', 'tzatziki crackers']","['TRISCUIT Cheddar', 'Tzatziki Crackers']"
+"['lipton® teabags', 'tea mix product']","['Lipton® TeaBags', 'Tea Mix product']"
+['tillamook ice cream'],['Tillamook Ice Cream']
+['greenwise pork loin boneless chops'],['GreenWise Pork Loin Boneless Chops']
+"[""reese 's""]","[""Reese's""]"
+"['colgate totalsf', 'colgate® optic white®']","['Colgate TotalSF', 'Colgate® Optic White®']"
+[],[]
+['tigertail fusion wing sauce'],['Tigertail Fusion Wing Sauce']
+"['tostitos® dip', 'tostitos® tortilla chips', '– 18oz bags']","['1)Tostitos® Dip', 'Tostitos® Tortilla Chips', '– 18oz bags']"
+['pine-sol® product'],['Pine-Sol® Product']
+"[""mrs. butterworth 's"", 'new breakfast', 'pancake cups']","['NEW Breakfast', 'Pancake Cups']"
+['fit tub'],['Fit tub']
+['energizer® batteries'],['Energizer® Batteries']
+['dole® acai bowl'],['Dole® Acai Bowl']
+['ziploc® brand bags < br >'],[]
+"['benadryl® 20ct', '4oz product']","['BENADRYL® 20ct', '4oz product']"
+['healthy choice power'],['Healthy Choice Power']
+"['ripple dairy', 'free milk']","['Ripple Dairy', 'Free Milk']"
+"['publix glass', 'trigger bottle', '32-oz bot']","['Publix Glass', 'Trigger Bottle', '32-oz bot']"
+"['soft drink', 'seltzer water', '2-l bot']","['Soft Drink', 'Seltzer Water', '2-L bot']"
+"['crest toothpaste', 'oz crest cavity', 'tartar control/protection', 'w pep gleem', 'gum detoxify', 'gum enamel variants', 'therapy variants']","['Crest Toothpaste', 'oz Crest Cavity', 'Tartar Control/Protection', 'F&amp;W Pep Gleem', 'Gum Detoxify', 'Gum Enamel variants', 'Therapy variants']"
+['reynolds bakeware'],['Reynolds Bakeware']
+"['publix aprons gourmet chicken burger feta', 'bell pepper']","['Publix Aprons Gourmet Chicken Burger Feta', 'Bell Pepper']"
+['good humor products'],['Good Humor products']
+"['super pack', 'pampers swaddlers', 'baby dry diapers']","['Super Pack', 'Pampers Swaddlers', 'Baby Dry Diapers']"
+"['publix bamboo skewers', '100-ct. pkg']","['Publix Bamboo Skewers', '100-ct. pkg']"
+[],[]
+"['good foods guacamole', 'dairy dip']","['Good Foods Guacamole', 'Dairy Dip']"
+"['box pampers', 'pure diapers']",['Pure Diapers']
+['kingsford® hardwood pellets 20lb bag < br >'],[]
+"['bonus fuel points', 'doordash gift card']","['BONUS FUEL POINTS', 'DOORDASH gift card']"
+"['4x fuel points', 'visa® gift card', 'visa® gift card', 'variable load gift cards', 'valid 5/22/20']","['4x FUEL Points', 'Visa® Gift Card', 'Valid 5/22/20']"
+"['4x fuel points', 'gift card', 'prepaid wireless card', 'prepaid phone']","['4x FUEL Points', 'gift card', 'prepaid wireless card', 'prepaid phone']"
+"[""reese 's"", ""reese 's""]","[""Reese's""]"
+"[""reese 's"", ""hershey 's"", 'kit kat candy bags', ""reese 's"", ""hershey 's"", 'kit kat candy bags']","[""Reese's"", ""Hershey's"", 'Kit Kat Candy Bags']"
+"['olive garden® parmesan ranch', 'olive garden® parmesan ranch']",['Olive Garden® Parmesan Ranch']
+"['lipton® tea products', 'lipton® teabags', 'tea mix product']","['Lipton® Tea Products', 'Lipton® TeaBags', 'Tea Mix product']"
+"[""nando 's perinaise"", ""nando 's perinaise item""]","[""Nando's"", ""Nando's PERinaise item""]"
+"['twizzlers licorice candy bags', 'twizzlers licorice candy bags']",['Twizzlers Licorice Candy Bags']
+"['crest toothpaste', 'crest toothpaste', 'crest cavity protection', 'tartar control/protection', '/ s']","['Crest Toothpaste', 'Crest Cavity Protection', 'Tartar Control/Protection']"
+"[""reese 's"", 'york thins candy bags', ""reese 's"", 'york thins candy bags']","[""Reese's"", 'York Thins Candy Bags']"
+"['kroger chip variety', 'kroger chip variety pack']",['Kroger Chip Variety']
+"['private selection bbq sauce', 'private selection bbq sauce']",['Private Selection BBQ Sauce']
+"['listerine® mouthwash', 'listerine® mouthwash']",['LISTERINE® Mouthwash']
+"[""jerry 's ice cream pints"", 'cookie dough chunks', ""jerry 's ice cream pints"", ""jerry 's cookie dough chunks""]","[""Jerry's Ice Cream Pints"", 'Cookie Dough', ""Jerry's Cookie Dough""]"
+"['colgate® optic white®', 'colgate totalsf toothpastes', 'colgate® optic white®', 'colgate totalsf toothpastes']","['Colgate® Optic White®', 'Colgate TotalSF Toothpastes']"
+"['oral b items', 'oral b', 'manual toothbrushes', 'oral b healthy', 'cavity defense brushes', '/ s']","['Oral B', 'Manual Toothbrushes', 'Oral B Healthy', 'Cavity Defense brushes']"
+"['axe antiperspirant', 'deodorant 2.7-3oz', 'body spray 4oz', 'bodywash 16oz', 'shampoo 16oz']","['Deodorant 2.7-3oz', 'Body Spray 4oz', 'Bodywash 16oz', 'Shampoo 16oz']"
+"['oral-b glide floss', 'oral-b glide', 'manual floss', 'interdental brush']","['Oral-B Glide Floss', 'Manual Floss', 'Interdental Brush']"
+"['degree item', 'dove men+care shampoo', 'antiperspirant/deodorant sticks', 'dry sprays', 'degree motionsense antiperspirant']","['Degree item', 'Dove Men+Care Shampoo', 'Antiperspirant/Deodorant Sticks', 'Dry Sprays', 'Degree MOTIONSENSE Antiperspirant']"
+"['oral-b adult', 'manual toothbrush', 'oral-b pulsar', 'multi-pack adult', 'manual toothbrush', 'cavity defense']","['Oral-B Adult', 'Manual Toothbrush', 'Oral-B Pulsar', 'Multi-pack Adult', 'Cavity Defense']"
+"['blue single', 'blue single', 'oikos triple zero products']","['Blue Single', 'Oikos Triple Zero products']"
+"['tide laundry group', 'tide laundry detergent', 'tide purclean laundry detergent', 'tide laundry detergent', 'tide pods', 'tide rescue', 'tide detergent']","['TIDE LAUNDRY GROUP', 'Tide Laundry Detergent', 'Tide Purclean Laundry Detergent', 'Tide PODS', 'Tide Rescue', 'Tide Detergent']"
+"['persil® detergent', 'persil® laundry detergent']","['Persil® Detergent', 'Persil® Laundry Detergent']"
+"['crest toothpaste', 'crest 3d', 'therapy enamel care']","['Crest Toothpaste', 'Crest 3D', 'Therapy Enamel Care']"
+"[""schmidt 's item"", 'planet shampoo', ""schmidt 's deodorant""]","[""Schmidt's item"", 'Planet Shampoo']"
+"['crest gum health toothpaste', 'crest gum detoxify', 'enamel repair']","['Crest Gum Health Toothpaste', 'Crest Gum Detoxify', 'Enamel Repair']"
+"['colgate® kids toothpaste', 'colgate® kids toothpaste']",['Colgate® Kids Toothpaste']
+"['community coffee', 'single-serve box', 'community® coffee']","['Community Coffee', 'Single-Serve Box', 'Community® Coffee']"
+"[""burt 's bees adult toothpaste"", ""burt 's bees adult toothpaste""]","[""Burt's Bees Adult Toothpaste""]"
+"[""burt 's bees kids toothpaste"", ""burt 's bees kids toothpaste""]","[""Burt's Bees Kids Toothpaste""]"
+"['colgate® optic', 'white renewal', 'colgate® optic', 'white renewal toothpaste']","['Colgate® Optic', 'White Renewal', 'White Renewal Toothpaste']"
+"['kauai ss coffee pods', 'kauai ss coffee pods']",['Kauai SS Coffee Pods']
+"['suave item', 'suave professionals green', ""men 's"", 'kids shampoo', 'suave essentials shampoo']","['Suave item', 'Suave Professionals Green', ""Men's"", 'Kids Shampoo', 'Suave Essentials Shampoo']"
+"['kroger frozen appetizers', 'kroger frozen appetizer']",['Kroger Frozen Appetizers']
+"['tresemme items', 'tresemme premium shampoo', 'styling aid']","['TRESemme items', 'TRESemme Premium Shampoo', 'Styling Aid']"
+"[""nando 's peri peri sauce"", ""nando 's peri peri sauce""]","[""Nando's"", ""Nando's""]"
+"['private selection mustard', 'private selection mustard']",['Private Selection Mustard']
+"['planet oat oatmilk', 'planet oat oatmilk']",['Planet Oat oatmilk']
+"['vero gusto premium pasta sauce', 'vero gusto premium pasta sauce']",['Vero Gusto Premium Pasta Sauce']
+"['coffee mate® product', 'coffee mate®', 'original powder coffee creamer canister']","['COFFEE MATE® product', 'Original Powder Coffee Creamer Canister']"
+"['herbal essences products', 'herbal essences shampoo', 'conditioner products', '[ / ]']","['Herbal Essences Products', 'Herbal Essences Shampoo', 'Conditioner Products']"
+"['pantene products', 'pantene shampoo', '[ / ]']","['Pantene Products', 'Pantene Shampoo', '2N1 Products']"
+"['pantene product', 'pantene hair affair product', '[ / ]']","['Pantene Product', 'Pantene Hair Affair Product']"
+"['waterless product', 'waterless product', '[ / ]']",['Waterless Product']
+"['aussie products', 'aussie shampoo', 'conditioner products', '[ / ]']","['Aussie Products', 'Aussie Shampoo', 'Conditioner Products']"
+"['advil pm products', 'advil pm']",['Advil PM Products']
+"['aussie products', 'aussie shampoo', 'conditioner products', '[ / ]']","['Aussie Products', 'Aussie Shampoo', 'Conditioner Products']"
+"['pantene products', 'pantene nutrient blends products', '[ / ]']","['Pantene Products', 'Pantene Nutrient Blends Products']"
+"['herbal essences products', 'herbal essences bio', 'conditioner products', '[ / ]']","['Herbal Essences Products', 'Herbal Essences Bio', 'Conditioner Products']"
+"['herbal essences products', 'herbal essences shampoo', 'conditioner products', '[ / ]']","['Herbal Essences Products', 'Herbal Essences Shampoo', 'Conditioner Products']"
+"['$ .50', 'rethink juice splash', 'rethink juice splash', 'kids juice']","['.50', 'RETHINK JUICE SPLASH', 'RETHINK JUICE SPLASH', 'Kids Juice']"
+[],['11 FO']
+"['pure zzzs products', 'vicks zzzquil', 'pure zzzs product', 'aromatherapy balm']","['PURE Zzzs Products', 'Vicks ZzzQuil', 'Aromatherapy Balm']"
+"['hair food products', 'hair food products', '[ / ]']",['Hair Food Products']
+"['tide pods', 'tide pods']",['Tide Pods']
+"['energizer® batteries', 'energizer® batteries']",['Energizer® Batteries']
+"['vietti artisan chili', 'vietti artisan']",['Vietti Artisan Chili']
+"['finders keepers', 'finders keepers milk chocolate candy']","['Finders Keepers', 'Finders', 'Milk Chocolate Candy']"
+"['colgate® zero mouthwash', 'colgate® zero mouthwash']",['Colgate® Zero Mouthwash']
+"['special care oral rinse', 'special care oral rinse']",['Special Care Oral Rinse']
+"['$ .50', 'di martino pasta', 'di martino pasta']",['.50']
+"['culturelle probiotics', 'culturelle probiotic']",['Culturelle Probiotics']
+"['oral-b vitality', 'rechargeable electric toothbrush', 'oral-b vitality', 'rechargeable electric toothbrush']","['Oral-B Vitality', 'Rechargeable Electric Toothbrush']"
+"['clearblue items', 'febreze plug', '3ct refills', 'prilosec otc', 'vicks zzzquil', ""pure zzz 's gummies"", 'clearblue pregnancy tests']","['Clearblue items', 'Febreze Plug', '3ct Refills', 'Prilosec OTC', 'Vicks ZZZQuil', ""Pure ZZZ's Gummies"", 'Clearblue Pregnancy Tests']"
+"['simple truth organic potato chips', 'simple truth organic potato chips']",['Simple Truth Organic Potato Chips']
+"['pine-sol® products', 'pine-sol® product']",['Pine-Sol® Products']
+"['benadryl® product', 'benadryl® 20ct', '4oz product']","['BENADRYL® product', '4oz product']"
+"['non-drowsy claritin® product', 'non-drowsy claritin®']",['Non-Drowsy Claritin® Product']
+"['non-drowsy claritin® liqui-gels®', 'non-drowsy claritin® liqui-gels®']",['Non-drowsy Claritin® Liqui-Gels®']
+['gardein® skillet meal'],[]
+[],[]
+"['paqui chips bag', 'paqui chips bag']",['Paqui Chips Bag']
+"['finish® quantum™', 'finish® max', 'finish® quantum™', 'finish® max']",['FINISH® Max']
+"['fixodent adhesive', 'fixodent adhesive']",['Fixodent Adhesive']
+"['native deodorants', 'native deodorants']",['Native Deodorants']
+"['disposable razors', 'disposable razor', 'daisy 4ct']","['Disposable Razors', 'Daisy 4CT']"
+"['olay wipes', 'age defy cleanser', 'olay wipes', 'age defy cleanser']","['Olay Wipes', 'Age Defy Cleanser']"
+"['simple truth guacamole', 'simple truth guacamole']",['Simple Truth Guacamole']
+"['rechargeable electric toothbrush', 'rechargeable electric toothbrush']",['Rechargeable Electric Toothbrush']
+"['rechargeable electric toothbrush', 'rechargeable electric toothbrush']",['Rechargeable Electric Toothbrush']
+"['prilosec otc products', 'prilosec otc product']",['Prilosec OTC Products']
+"['$ .50', 'luvs diapers', 'luvs diapers']","['.50', 'LUVS Diapers']"
+"['kashi® cereals', 'kashi® cereals']",['Kashi® Cereals']
+"['private selection buffalo chicken dip', 'private selection buffalo dip']","['Private Selection Buffalo Chicken Dip', 'Private Selection Buffalo Dip']"
+"['crest whitestrips', 'crest whitestrips item', 'white whitestrips']","['Crest Whitestrips', 'Crest Whitestrips item', 'White Whitestrips']"
+"['yucatan guacamole squeeze product', 'yucatan guacamole squeeze product']",['Yucatan Guacamole']
+"['private selection cheese', 'private selection cheese']",['Private Selection Cheese']
+"['schick® razor products', 'disposable razor pack', 'schick® xtreme3®', 'schick® xtreme2®', 'ct disposables']","['Schick® Razor products', 'Disposable Razor Pack', 'Schick® Xtreme3®', 'Schick® Xtreme2®', 'ct Disposables']"
+"['alocane burn gel', 'alocane emergency burn gel']","['Alocane Burn Gel', 'Alocane Emergency Burn Gel']"
+"['$ .50', 'venus shave gels', 'gillette proglide shave gel', 'olay shave gel']","['.50', 'Venus Shave Gels', 'Gillette Proglide Shave Gel', 'Olay Shave Gel']"
+"['olay regenerist facial moisturizer', 'olay regenerist facial moisturizer']",['Olay Regenerist Facial Moisturizer']
+"['sheba® cat food', 'perfect portions™ premium cat food']","['SHEBA® Cat Food', 'Perfect Portions™ Premium Cat Food']"
+"['disposable swimpants', 'disposable swimpants']",['Disposable Swimpants']
+"['iwon organics sticks', 'iwon organic stix']","['IWON Organics Sticks', 'IWON Organic Stix']"
+"['q mixers', 'q mixers']",[]
+"['refresh machine formula', 'refresh machine formula']",['Refresh Machine Formula']
+"['shoulders products', 'supreme shampoo', 'conditioner products', '[ / ]']","['Shoulders Products', 'Supreme Shampoo', 'Conditioner Products']"
+"['sensible portions screamin', 'hot veggie straws', 'sensible portions screamin', 'hot veggie straw']","['Sensible Portions Screamin', 'Hot Veggie Straws']"
+"['vital proteins collagen water', 'vital proteins collagen water']",['Vital Proteins Collagen Water']
+"['zzzquil zzzquil products', 'vicks zzzquil product', 'pure zzzs']","['ZZZQUIL ZzzQuil Products', 'Vicks ZzzQuil Product', 'PURE Zzzs']"
+"['clif granola', 'clif granola']",['CLIF Granola']
+"[""chef 's"", 'real jerky', ""chef 's"", 'jerky snack', ""chef 's"", 'real jerky', '2.5oz bag', ""chef 's"", 'jerky snack']","[""Chef's"", 'Real Jerky', 'Jerky Snack', '2.5oz bag', 'Jerky Snack']"
+"['visa® gift card', '* restrictions', 'redeem 5/20/2020-6/9/2020']","['Visa® gift card', '* Restrictions', 'redeem 5/20/2020-6/9/2020']"
+"['meats chicharrones', 'meats chicharrones']",['Meats Chicharrones']
+[],[]
+"['craisins® item', 'craisins® item']",['Craisins® item']
+"['osteo bi-flex® products', 'osteo bi-flex® product']",['Osteo Bi-Flex® Products']
+"['blue diamond nut thins', 'blue diamond nut', 'thin crackers']",['Thin Crackers']
+"['zoneperfect® keto products', 'zoneperfect® keto powder']","['ZonePerfect® Keto products', 'ZonePerfect® Keto Powder']"
+"['schick men razors', 'schick hydro®', 'schick® quattro® titanium* razor', 'schick® disposables', ""women 's razor""]","['Men Razors', 'Schick Hydro®', 'Schick® Quattro® Titanium* Razor', ""Women's Razor""]"
+"['kodiak cakes', 'kodiak cakes']",['Kodiak Cakes']
+"['nutro™ wholesome essentials™ cat food', 'nutro™ wholesome essentials™ dry cat food']","['NUTRO™ WHOLESOME ESSENTIALS™ Cat Food', 'NUTRO™ WHOLESOME ESSENTIALS™ Dry Cat Food']"
+"['venus blade refills', 'venus blade refill', 'gillette3 4ct']","['Venus Blade Refills', 'Gillette3 4CT']"
+['water product'],['Water product']
+"['venus razors', 'venus razor', 'disposable razors', 'mach3 1up razor']","['Venus Razors', 'Disposable Razors', 'Mach3 1UP Razor']"
+"['natural jars', 'natural pouch', 'natural jars', 'natural pouch']",['Natural Pouch']
+"['creative roots beverage', 'creative roots beverage']",['CREATIVE ROOTS beverage']
+"['louis kemp', 'louis kemp alaskan delights', 'crab delights']","['Louis Kemp', 'Louis Kemp Alaskan Delights', 'Crab Delights']"
+"['simple truth organic snack crackers', 'simple truth organic snack crackers']",['Simple Truth Organic Snack Crackers']
+"['® products', '® product', '® products']",['® Products']
+"['simple truth fig', 'thyme crisp crackers', 'simple truth fig', 'thyme crisp crackers']","['Simple Truth Fig', 'Thyme Crisp Crackers']"
+"['claritin® syrup', ""non-drowsy children 's claritin® syrup""]","['Claritin® Syrup', ""Non-Drowsy Children's Claritin® Syrup""]"
+[],[]
+['performance kitchen meal'],['Performance Kitchen Meal']
+[],[]
+"['enfamil powder', 'enfamil infant formula powder']","['Enfamil Powder', 'Enfamil Infant Formula powder']"
+"['babyganics sunscreen', 'free bug spray', 'babyganics sunscreen', 'free bug spray']",[]
+['glucerna® multi-pack'],['Glucerna® multi-pack']
+['pediasure® product'],['PediaSure® product']
+"['raid® products', 'essential oils product', 'raid® club']","['Raid® Products', 'Essential Oils Product', 'Raid® Club']"
+"['bare repulic products', 'bare republic sun product']",['Bare Republic Sun Product']
+['cheerwine glass packages'],['Cheerwine Glass Packages']
+"['madegood granola', 'mini item']",['Mini Item']
+"['red palm oil', 'red palm oil']",['Red Palm Oil']
+"['ultimate burger', 'ultimate burger frozen']","['Ultimate Burger', 'Ultimate Burger Frozen']"
+"['gardein® breakfast bowl', 'gardein® breakfast bowl']",['Gardein® Breakfast Bowl']
+"['visine® product', 'visine® product', '/ s']","['VISINE® product', 'VISINE® product']"
+"['yumearth organic lollipops', 'black licorice']","['YumEarth Organic Lollipops', 'Black Licorice']"
+"[""earth 's"", 'chicken fries', ""earth 's"", 'chicken fries']","[""Earth's"", 'Chicken Fries']"
+"['nuk cups', 'nuk cup item']","['NUK cups', 'Nuk Cup item']"
+"['pantene products', 'royal oils', 'gold series products', '[ / ]']","['Pantene Products', 'Royal Oils', 'Gold Series Products']"
+"['bic® tattoo marker', 'bic® tattoo marker']",['BIC® Tattoo Marker']
+"['bic® tattoo marker', 'bic® tattoo marker']",['BIC® Tattoo Marker']
+"['refresh eye drops', 'refresh eye drop', 'refresh repair']",['Refresh Repair']
+['systane icap vitamins'],['Systane ICAP Vitamins']
+"['vital proteins powder canister', 'vital proteins powder canister']",['Vital Proteins Powder']
+"['giovanni eco', '2chic shampoo', 'giovanni eco', '2chic shampoo']",[]
+"['tajin clasico seasonings', 'tajin clasico seasonings']",['TAJIN Clasico Seasonings']
+"['nutiva mct powder product', 'nutiva mct powder product']",['Nutiva MCT Powder product']
+"['simple truth mulit-vitamin gummies', 'simple truth multi-vitamin gummies', 'hair skin', 'nails gummies']","['Simple Truth Mulit-Vitamin Gummies', 'Simple Truth Multi-Vitamin Gummies', 'Hair Skin', 'Nails Gummies']"
+"['nutiva mct oil product', 'nutiva mct oil product']",['Nutiva MCT Oil Product']
+"['simple truth organic', 'simple truth organic']",['Simple Truth Organic']
+"['biofreeze product', 'biofreeze pain']","['Biofreeze product', 'Biofreeze Pain']"
+"['2x fuel points download', 'digital coupon', '2x fuel points*']","['2x Fuel Points Download', 'digital coupon', '2x fuel points*']"
+"['bronkaid product', 'bronkaid® product']","['Bronkaid product', 'Bronkaid® product']"
+"[""kellogg's® jumbo snax"", ""kellogg's® jumbo snax""]","[""'s® Jumbo Snax""]"
+"['non-drowsy claritin-d® products', 'non-drowsy claritin-d® product']",['Non-Drowsy Claritin-D® Products']
+"['pataday® eye allergy itch relief drops', 'pataday® eye allergy itch relief drops']",['Allergy Itch Relief Drops']
+"[""milton 's gluten"", 'free cracker', ""milton 's gluten"", 'free crackers']","[""'s Gluten"", 'Free Cracker', 'Free Crackers']"
+"['sartori cheese deli bags', 'sartori cheese deli bag']",['Cheese Deli Bags']
+[],[]
+"['simple truth hummus', 'simple truth hummus']",['Simple Truth Hummus']
+"['full o', 'nuts coffee', 'full o', 'nuts coffee']","['full o', 'Nuts Coffee']"
+"['paper check', 'tax refund', 'government paper check', 'money services']","['Paper Check', 'tax refund', 'government paper check', 'Money Services']"
+"['simple truth', 'burger patties', 'simple truth']","['Simple Truth', 'Burger Patties']"
+"['simple truth', 'burger grinds', 'simple truth']","['Simple Truth', 'Burger Grinds']"
+"['simple truth organic parmesan cheese', 'simple truth organic parmesan cheese wedge', 'specialty cheese', 'deli dept']","['Simple Truth Organic Parmesan Cheese', 'Specialty Cheese', 'Deli Dept']"
+"['refresh eye drops', 'refresh relieva', 'refresh optive mega-3 eye drop']","['Refresh Relieva', 'Refresh Optive Mega-3']"
+[],[]
+"['lb bag', 'purina® dog chow®', 'purina® puppy chow® dry food']","['lb bag', 'Purina® Dog Chow®', 'Purina® Puppy Chow® Dry Food']"
+"['tropic sun sunscreen lotion', 'spray 5.5-6 oz', 'family dollar smart coupon']","['Tropic Sun SunScreen Lotion', 'Spray 5.5-6 oz', 'Family Dollar Smart Coupon']"
+"['family pet meaty cuts dry dog food', 'family dollar smart coupon']","['Family Pet Meaty Cuts Dry Dog Food', 'Family Dollar Smart Coupon']"
+"['purex® liquid 128-150oz.', '4-in-1 pacs']","['Purex® Liquid 128-150oz.', '4-in-1 Pacs']"
+"['all® liquid laundry detergent', 'mighty pacs®']","['all® liquid laundry detergent', 'mighty pacs®']"
+"['snuggle® liquid fabric softener 48.6-50oz.', 'scent shakes™']","['Snuggle® Liquid Fabric Softener 48.6-50oz.', 'Scent Shakes™']"
+"['all® liquid 54oz.', 'mighty pacs® 19ct']","['all® Liquid 54oz.', 'mighty pacs® 19ct']"
+['huggies pull-ups'],['Huggies Pull-Ups']
+"['cascade dishwasher detergent', 'rinse aid']","['Cascade Dishwasher Detergent', 'Rinse Aid']"
+['clean products'],['Clean Products']
+['disposable swimpants'],['Disposable Swimpants']
+"['$ .75', 'super scoop', 'cat litter', 'family dollar smart coupon']","['.75', 'Super Scoop', 'Cat Litter', 'Family Dollar Smart Coupon']"
+['meow mix dry product'],['Meow Mix Dry Product']
+['kibbles n bits dry product'],['Kibbles N Bits Dry Product']
+"['dreft blissfuls', 'scent boosters']","['Dreft Blissfuls', 'Scent Boosters']"
+"['dreft newborn laundry detergent', 'active baby laundry detergent']","['Dreft Newborn Laundry Detergent', 'Active Baby Laundry Detergent']"
+"['tide laundry detergent', 'tide purclean laundry detergent', 'tide laundry detergent', 'tide pods', 'tide rescue', 'tide detergent']","['Tide Laundry Detergent', 'Tide Purclean Laundry Detergent', 'Tide PODS', 'Tide Rescue', 'Tide Detergent']"
+"['tide pods', 'tide liquid/powder laundry detergent', 'tide pods']","['Tide PODS', 'Tide Liquid/Powder Laundry Detergent']"
+['venus products'],['Venus Products']
+[],[]
+"['downy liquid fabric conditioner 48ld', 'downy odor', 'downy wrinkle guard 25oz', 'downy nature blends', 'bounce/downy sheets 70ct', 'bounce/downy wrinkle guard 40ct', 'scent boosters 5.7oz', 'downy unstopables', 'rapid touch-up', 'downy wrinkle releaser spray', 'downy libre enjuague']","['Downy Liquid Fabric Conditioner 48ld', 'Downy Odor', 'Downy Wrinkle Guard 25oz', 'Downy Nature Blends', 'Bounce/Downy Sheets 70ct', 'Bounce/Downy Wrinkle Guard 40ct', 'Scent Boosters 5.7oz', 'Downy Unstopables', 'Rapid Touch-up', 'Downy Wrinkle Releaser Spray', 'Downy Libre Enjuague']"
+"['dreft blissfuls', 'scent boosters']","['Dreft Blissfuls', 'Scent Boosters']"
+['bounty paper towel product'],['Bounty Paper Towel Product']
+['puffs facial tissues'],['Puffs Facial Tissues']
+['charmin toilet paper product'],['Charmin Toilet Paper Product']
+['prilosec otc product'],['Prilosec OTC Product']
+"['crest toothpaste', 'oz crest cavity', 'tartar control/protection', 'w pep gleem', 'gum detoxify', 'gum enamel variants', 'therapy variants']","['Crest Toothpaste', 'oz Crest Cavity', 'Tartar Control/Protection', 'Pep Gleem', 'Gum Detoxify', 'Gum Enamel variants', 'Therapy variants']"
+"['oral-b glide', 'manual floss', 'interdental brush']","['Oral-B Glide', 'Manual Floss', 'Interdental Brush']"
+['matchlight® charcoal 8lbs'],[]
+"['lipton® teabags', 'tea mix product']","['Lipton® TeaBags', 'Tea Mix product']"
+"['colgate optic', 'white renewal toothpaste']","['Colgate Optic', 'White Renewal Toothpaste']"
+"['banana boat® sun care product', 'lip balm']","['Banana Boat® Sun Care Product', 'lip balm']"
+['pull-ups® training pants'],['PULL-UPS® Training Pants']
+['energizer® batteries'],['Energizer® Batteries']
+"['gain flings', 'gain liquid laundry detergent', 'gain botanicals', 'essential oils', 'gain powder laundry detergent', 'gain ultra flings', 'gain fabric enhancers', 'gain fireworks', 'gain flings']","['Gain Flings', 'Gain Liquid Laundry Detergent', 'Gain Botanicals', 'Essential Oils', 'Gain Powder Laundry Detergent', 'Gain Ultra Flings', 'Gain Fabric Enhancers', 'Gain Fireworks']"
+"['gain liquid fabric softener', 'gain fireworks', 'scent boosters', 'gain dryer sheets', 'gain flings', 'gain detergent']","['Gain Liquid Fabric Softener', 'Gain Fireworks', 'Scent Boosters', 'Gain Dryer Sheets', 'Gain Flings', 'Gain Detergent']"
+['pine-sol® product'],['Pine-Sol® Product']
+"['benadryl® 20ct', '4oz product']","['BENADRYL® 20ct', '4oz product']"
+"['® product', '® products']","['® Product(Excludes Club', '® Products']"
+"[""reese 's""]","[""Reese's""]"
+"['glacier ice auto ac refrigerant', 'family dollar smart coupon']","['Glacier Ice Auto AC Refrigerant', 'Family Dollar Smart Coupon']"
+"['kidgets jumbo pack diapers s newborn-7', 'family dollar smart coupon']","['Pack Diapers', 'Family Dollar Smart Coupon']"
+"['lb bag', 'purina® dog chow®', 'purina® puppy chow® dry food']","['lb bag', 'Purina® Dog Chow®', 'Purina® Puppy Chow® Dry Food']"
+"['tropic sun sunscreen lotion', 'spray 5.5-6 oz', 'family dollar smart coupon']","['Tropic Sun SunScreen Lotion', 'Spray 5.5-6 oz', 'Family Dollar Smart Coupon']"
+"['family pet meaty cuts dry dog food', 'family dollar smart coupon']","['Family Pet Meaty Cuts Dry Dog Food', 'Family Dollar Smart Coupon']"
+"['purex® liquid 128-150oz.', '4-in-1 pacs']","['Purex® Liquid 128-150oz.', '4-in-1 Pacs']"
+"['all® liquid laundry detergent', 'mighty pacs®']","['all® liquid laundry detergent', 'mighty pacs®']"
+"['snuggle® liquid fabric softener 48.6-50oz.', 'scent shakes™']","['Snuggle® Liquid Fabric Softener 48.6-50oz.', 'Scent Shakes™']"
+"['all® liquid 54oz.', 'mighty pacs® 19ct']","['all® Liquid 54oz.', 'mighty pacs® 19ct']"
+['huggies pull-ups'],['Huggies Pull-Ups']
+"['cascade dishwasher detergent', 'rinse aid']","['Cascade Dishwasher Detergent', 'Rinse Aid']"
+['clean products'],['Clean Products']
+['disposable swimpants'],['Disposable Swimpants']
+"['$ .75', 'super scoop', 'cat litter', 'family dollar smart coupon']","['.75', 'Super Scoop', 'Cat Litter', 'Family Dollar Smart Coupon']"
+['meow mix dry product'],['Meow Mix Dry Product']
+['kibbles n bits dry product'],['Kibbles N Bits Dry Product']
+"['dreft blissfuls', 'scent boosters']","['Dreft Blissfuls', 'Scent Boosters']"
+"['dreft newborn laundry detergent', 'active baby laundry detergent']","['Dreft Newborn Laundry Detergent', 'Active Baby Laundry Detergent']"
+"['tide laundry detergent', 'tide purclean laundry detergent', 'tide laundry detergent', 'tide pods', 'tide rescue', 'tide detergent']","['Tide Laundry Detergent', 'Tide Purclean Laundry Detergent', 'Tide PODS', 'Tide Rescue', 'Tide Detergent']"
+"['tide pods', 'tide liquid/powder laundry detergent', 'tide pods']","['Tide PODS', 'Tide Liquid/Powder Laundry Detergent']"
+['venus products'],['Venus Products']
+[],[]
+"['downy liquid fabric conditioner 48ld', 'downy odor', 'downy wrinkle guard 25oz', 'downy nature blends', 'bounce/downy sheets 70ct', 'bounce/downy wrinkle guard 40ct', 'scent boosters 5.7oz', 'downy unstopables', 'rapid touch-up', 'downy wrinkle releaser spray', 'downy libre enjuague']","['Downy Liquid Fabric Conditioner 48ld', 'Downy Odor', 'Downy Wrinkle Guard 25oz', 'Downy Nature Blends', 'Bounce/Downy Sheets 70ct', 'Bounce/Downy Wrinkle Guard 40ct', 'Scent Boosters 5.7oz', 'Downy Unstopables', 'Rapid Touch-up', 'Downy Wrinkle Releaser Spray', 'Downy Libre Enjuague']"
+"['dreft blissfuls', 'scent boosters']","['Dreft Blissfuls', 'Scent Boosters']"
+['bounty paper towel product'],['Bounty Paper Towel Product']
+['puffs facial tissues'],['Puffs Facial Tissues']
+['charmin toilet paper product'],['Charmin Toilet Paper Product']
+['prilosec otc product'],['Prilosec OTC Product']
+"['crest toothpaste', 'oz crest cavity', 'tartar control/protection', 'w pep gleem', 'gum detoxify', 'gum enamel variants', 'therapy variants']","['Crest Toothpaste', 'oz Crest Cavity', 'Tartar Control/Protection', 'Pep Gleem', 'Gum Detoxify', 'Gum Enamel variants', 'Therapy variants']"
+"['oral-b glide', 'manual floss', 'interdental brush']","['Oral-B Glide', 'Manual Floss', 'Interdental Brush']"
+['matchlight® charcoal 8lbs'],[]
+"['lipton® teabags', 'tea mix product']","['Lipton® TeaBags', 'Tea Mix product']"
+"['colgate optic', 'white renewal toothpaste']","['Colgate Optic', 'White Renewal Toothpaste']"
+"['banana boat® sun care product', 'lip balm']","['Banana Boat® Sun Care Product', 'lip balm']"
+['pull-ups® training pants'],['PULL-UPS® Training Pants']
+['energizer® batteries'],['Energizer® Batteries']
+"['gain flings', 'gain liquid laundry detergent', 'gain botanicals', 'essential oils', 'gain powder laundry detergent', 'gain ultra flings', 'gain fabric enhancers', 'gain fireworks', 'gain flings']","['Gain Flings', 'Gain Liquid Laundry Detergent', 'Gain Botanicals', 'Essential Oils', 'Gain Powder Laundry Detergent', 'Gain Ultra Flings', 'Gain Fabric Enhancers', 'Gain Fireworks']"
+"['gain liquid fabric softener', 'gain fireworks', 'scent boosters', 'gain dryer sheets', 'gain flings', 'gain detergent']","['Gain Liquid Fabric Softener', 'Gain Fireworks', 'Scent Boosters', 'Gain Dryer Sheets', 'Gain Flings', 'Gain Detergent']"
+['pine-sol® product'],['Pine-Sol® Product']
+"['benadryl® 20ct', '4oz product']","['BENADRYL® 20ct', '4oz product']"
+"['® product', '® products']","['® Product(Excludes Club', '® Products']"
+"[""reese 's""]","[""Reese's""]"
+"['glacier ice auto ac refrigerant', 'family dollar smart coupon']","['Glacier Ice Auto AC Refrigerant', 'Family Dollar Smart Coupon']"
+"['flintstones vitamins', 'complete chewable vitamins 150ct']","['Flintstones Vitamins', 'Complete Chewable Vitamins 150ct']"
+['minimum purchase'],['Minimum Purchase']
+"['bronkaid product', 'bronkaid® product']","['Bronkaid product', 'Bronkaid® product']"
+"['oral care', 'adult crest toothpaste', 'crest mouthwash', 'manual toothbrush', 'oral-b glide floss', 'fixodent adhesive', 'oz crest cavity', 'tartar control/protection pastes', 'kids variants', 'cavity defense', 'clean brushes']","['ORAL CARE', 'Adult Crest Toothpaste', 'Crest Mouthwash', 'Manual Toothbrush', 'Oral-B Glide Floss', 'Fixodent Adhesive', 'oz Crest Cavity', 'Tartar Control/Protection pastes', 'Kids variants', 'Cavity Defense', 'Clean brushes']"
+"['shoulders products', 'royal oils', ""men 's styling""]","['Shoulders Products', 'Royal Oils', ""Men's Styling""]"
+['discreet boutique product'],['DISCREET Boutique Product']
+"['tide antibacterial spray', 'tide antibacterial spray', 'tide stain pen', 'tide rescue', 'tide laundry detergent', 'tide pods']","['Tide Antibacterial Spray', 'Tide Stain Pen', 'Tide Rescue', 'Tide Laundry Detergent', 'Tide PODS']"
+['olay serums'],['Olay Serums']
+"['easy ups', 'underjams training underwear', 'bag pampers', 'easy ups training underwear', 'underjams absorbent night']","['Easy Ups', 'UnderJams Training Underwear', 'Bag Pampers', 'Easy Ups Training Underwear', 'UnderJams Absorbent']"
+"['gillette razor group', 'venus razor']","['Gillette Razor Group', 'Venus Razor']"
+"['high endurance', 'body spray', 'invisible spray']","['High Endurance', 'Body Spray', 'Invisible Spray']"
+"['pampers swaddlers', 'baby dry diapers', 'bag pampers swaddlers', 'baby dry diapers']","['Pampers Swaddlers', 'Baby Dry Diapers', 'BAG Pampers Swaddlers']"
+"['aussie products', 'aussie shampoo', 'styling products']","['Aussie Products', 'Aussie Shampoo', 'Styling Products']"
+"[""burt 's bees kids toothpaste"", ""burt 's bees kids toothpaste""]","[""Burt's Bees Kids Toothpaste""]"
+"['tampax pearl', 'pure tampons']","['Tampax Pearl', 'PURE Tampons']"
+"['oral-b vitality', 'rechargeable electric toothbrush', 'oral-b vitality', 'rechargeable electric toothbrush']","['Oral-B Vitality', 'Rechargeable Electric Toothbrush']"
+"['tide laundry detergent', 'tide laundry detergent', 'tide purclean laundry detergent', 'tide laundry detergent', 'tide pods', 'tide rescue', 'tide detergent']","['TIDE Laundry Detergent', 'Tide Purclean Laundry Detergent', 'Tide PODS', 'Tide Rescue', 'Tide Detergent']"
+['venus products'],['Venus Products']
+"[""burt 's bees adult toothpaste"", ""burt 's bees adult toothpaste""]","[""Burt's Bees Adult Toothpaste""]"
+"['tide laundry detergent', 'tide purclean laundry detergent', 'tide pods', 'tide rescue', 'laundry detergent', 'tide detergent']","['Tide Laundry Detergent', 'Tide Purclean Laundry Detergent', 'Tide PODS', 'Tide Rescue', 'Tide Detergent']"
+"['olay bar/bw/inshwr bdyltn', 'body conditioner', 'body lotion']","['Olay Bar/BW/InShwr BdyLtn', 'Body Conditioner', 'Body Lotion']"
+"['olay wen', 'olay facial moisturizer']","['OLAY wen', 'Olay Facial Moisturizer']"
+"['bounce/downy sheets', 'bounce/downy wrinkle guard sheets', 'rapid touch-up', 'downy wrinkle releaser spray', 'downy libre enjuague']","['Bounce/Downy Sheets', 'Bounce/Downy Wrinkle Guard Sheets', 'Rapid Touch-up', 'Downy Wrinkle Releaser Spray', 'Downy Libre Enjuague']"
+"['pantene products', 'gold series collection', 'intense rescue shot']","['Pantene Products', 'Gold Series Collection', 'Intense Rescue Shot']"
+"['gillette razor', 'venus products']","['Gillette Razor', 'Venus Products']"
+"['herbal essences', 'herbal essences bio', 'styling products', 'ml shampoo']","['Herbal Essences', 'Herbal Essences bio', 'Styling Products', 'mL Shampoo']"
+"['rechargeable electric toothbrush', 'rechargeable electric toothbrush']",['Rechargeable Electric Toothbrush']
+"['tide pods', 'tide pods', 'tide power pods', 'tide liquid/powder laundry detergent', 'tide pods']","['Tide PODS', 'Tide Power PODS', 'Tide Liquid/Powder Laundry Detergent']"
+[],[]
+"['oral care', 'fixodent adhesive']","['ORAL CARE', 'Fixodent Adhesive']"
+[],[]
+['olay facial cleanser'],['Olay Facial Cleanser']
+"['prilosec otc products', 'prilosec otc product']",['Prilosec OTC Products']
+['waterless products'],['Waterless Products']
+"['downy liquid fabric conditioner', 'downy odor', 'fabric conditioner', 'downy wrinkle guard fabric conditioner', 'downy nature blends fabric conditioner', 'downy wrinkle releaser spray', 'downy libre enjuague']","['Downy Liquid Fabric Conditioner', 'Downy Odor', 'Downy Wrinkle Guard Fabric Conditioner', 'Downy Nature Blends Fabric Conditioner', 'Downy Wrinkle Releaser Spray', 'Downy Libre Enjuague']"
+"['herbal essences products', 'herbal essences shampoo', 'styling products']","['Herbal Essences Products', 'Herbal Essences Shampoo', 'Styling Products']"
+"['gillette ap/do group', 'gillette anti-perspirant']","['Gillette AP/DO Group', 'Gillette Anti-Perspirant']"
+"['blue single', 'blue single', 'oikos triple zero products']","['Blue Single', 'Oikos Triple Zero products']"
+"['claritin® syrup', ""non-drowsy children 's claritin® syrup""]","['Claritin® Syrup', ""Non-Drowsy Children's Claritin® Syrup""]"
+"['non-drowsy claritin® chews', 'non-drowsy claritin® chews']",['Non-Drowsy Claritin® Chews']
+"['non-drowsy claritin-d® products', 'non-drowsy claritin-d® product']",['Non-Drowsy Claritin-D® Products']
+"['non-drowsy claritin® product', 'non-drowsy claritin®']",['Non-Drowsy Claritin® Product']
+"[""children 's claritin chewables"", ""non-drowsy children 's claritin® chewables""]","[""Children's Claritin Chewables"", ""Non-Drowsy Children's Claritin® Chewables""]"
+"[""children 's claritin®"", ""children 's claritin®""]","[""Children's Claritin®""]"
+"['non-drowsy claritin® liqui-gels®', 'non-drowsy claritin® liqui-gels®']",['Non-drowsy Claritin® Liqui-Gels®']
+"['muscle milk', 'pro series protein', '4pk *redeem']","['MUSCLE MILK', 'Pro Series Protein']"
+"[""hyland 's restful legs""]","[""'s Restful Legs""]"
+"['® products', '® product', '® products']",['® Products']
+"['gain laundry detergent', 'gain flings', 'gain liquid laundry detergent', 'essential oils laundry detergent', 'gain fabric enhancers', 'gain fireworks', 'gain flings']","['Gain Laundry Detergent', 'Gain Flings', 'Gain Liquid Laundry Detergent', 'Essential Oils Laundry Detergent', 'Gain Fabric Enhancers', 'Gain Fireworks']"
+['evolve protein'],['Evolve Protein']
+"['oi organic cotton panty liners', 'oi organic cotton tampons']","['Oi Organic Cotton Panty Liners', 'Oi Organic Cotton Tampons']"
+['clear eyes'],['Clear Eyes']
+"['core power high protein', 'package contains']","['Power High Protein', 'Package contains']"
+[],[]
+['flexitol heel balm'],['Flexitol Heel Balm']
+[],[]
+"['san pellegrino momenti', 'drinks 6-pack']","['San Pellegrino Momenti', 'Drinks 6-Pack']"
+[],[]
+['fresh step cat litter'],['Fresh Step Cat Litter']
+"['$ .50', 'dapple baby bottle', 'dish soap', 'sweet lavender']","['.50', 'dapple Baby Bottle', 'Dish Soap', 'Sweet Lavender']"
+"['gain product', 'gain liquid fabric softener', 'gain fireworks', 'scent boosters', 'gain dryer sheets', 'gain flings', 'gain detergent']","['Gain Product', 'Gain Liquid Fabric Softener', 'Gain Fireworks', 'Scent Boosters', 'Gain Dryer Sheets', 'Gain Flings', 'Gain Detergent']"
+"['gatorade sports drink', 'propel water', 'gatorade 1-qt', 'propel water beverage']","['Gatorade Sports Drink', 'Propel Water', 'Gatorade 1-qt']"
+"['colgate® optic', 'white renewal', 'colgate® optic', 'white renewal toothpaste']","['Colgate® Optic', 'White Renewal', 'White Renewal Toothpaste']"
+"['’ s sweets chocolate', 'chocolate candy', '’ s sweets chocolate', 'chocolate candy']","['’s Sweets Chocolate Bar', 'Chocolate Candy']"
+"['coke 8-pk', ""seagram 's"", ""barq 's"", 'coke 96-oz']","['Coke 8-Pk', ""Seagram's"", ""Barq's""]"
+[],[]
+"[""hershey 's king candy""]",[]
+"['pine-sol® products', 'pine-sol® product']",['Pine-Sol® Products']
+"['osteo bi-flex® products', 'osteo bi-flex® product']",['Osteo Bi-Flex® Products']
+"['benadryl® product', 'benadryl® 20ct', '4oz product']","['BENADRYL® product', '4oz product']"
+"['energizer® batteries', 'energizer® batteries']",['Energizer® Batteries']
+"['disposable razors', 'ct. hybrid', 'ct. flex5', 'ct. flex4', 'soleil bella', 'ct. flex3', 'ct. hybrid', 'ct. flex5 hybrid']","['Disposable Razors', 'ct. Flex5', 'ct. Flex4', 'Soleil Bella', 'ct. Flex5 Hybrid']"
+"['$ .50', 'post cereal', 'golden crisp', 'box *redeem']","['.50', 'Post Cereal', 'Golden Crisp']"
+"['atkins meal', 'day snack', '8.47-10.6 oz']","['Atkins Meal', 'Day Snack', '8.47-10.6 oz']"
+"['canada dry ginger ale', '7-up 6-pack']","['Canada Dry Ginger Ale', '7-Up 6-Pack']"
+"[""friendly 's ice cream"", 'dairy desserts']","[""Friendly's Ice Cream"", 'Dairy Desserts']"
+"['one-a-day vitamins', 'ct. btl']",['ct. btl']
+"['hartz ultra guard flea', 'monthly drop treatment', 'tot wght pkg']","['Hartz Ultra Guard Flea', 'monthly drop treatment', 'tot wght pkg']"
+['bubbies mochi ice cream mochi'],['Bubbies Mochi Ice Cream Mochi']
+['bubbies ice cream cookie dough ice cream bites'],['Bubbies Ice Cream Cookie Dough Ice Cream Bites']
+"['special delivery™ diapers', 'special delivery™ diapers']",['Special Delivery™ Diapers']
+[],[]
+"['pull-ups® training pants', 'pull-ups® training pants']",['-UPS® Training Pants']
+"['special delivery™ wipes', 'special delivery™ wipes']",['Special Delivery™ Wipes']
+"['pull-ups® training pants', 'pull-ups® training pants']",['-UPS® Training Pants']
+"['lipton® tea products', 'lipton® teabags', 'tea mix product']","['Lipton® Tea Products', 'Lipton® TeaBags', 'Tea Mix product']"
+['fruit items'],['Fruit Items']
+"['bic® razors', 'bic® soleil®', 'bic® flex™', 'bic® comfort 3® hybrid', 'disposable razor pack']","['BIC® Razors', 'BIC® Soleil®', 'BIC® Flex™', 'BIC® Comfort 3® Hybrid', 'Disposable Razor Pack']"
+"['bayer aspirin', 'ct. btl']","['Bayer Aspirin', 'ct. btl']"
+"['dole® products', 'dole® acai bowl', 'spoonable smoothie']","['Dole® Products', 'Dole® Acai Bowl', 'Spoonable Smoothie']"
+"[""reese 's"", ""reese 's""]","[""Reese's""]"
+['dollar general location 5/30/20'],['Dollar General Location 5/30/20']
+"['purchase $', 'm ’ s® chocolate candies']","['PURCHASE', '’S® Chocolate Candies']"
+"['gain flings', 'gain liquid laundry detergent', 'gain powder']","['Gain Flings', 'Gain Liquid Laundry Detergent', 'Gain Powder']"
+['charmin toilet paper product'],['Charmin Toilet Paper Product']
+['coca-cola® single'],['Coca-Cola® single']
+['bounty paper towel product'],['Bounty Paper Towel Product']
+"['gain liquid fabric enhancer', 'gain fireworks', 'gain sheets']","['Gain Liquid Fabric Enhancer', 'Gain Fireworks', 'Gain Sheets']"
+"['gatorade® 32oz', 'gatorade® 32oz', 'max value $']","['Gatorade® 32oz', 'Max Value']"
+"['downy liquid fabric enhancer', 'in-wash scent boosters 5.7-6.50 oz', 'downy unstopables', 'downy wrinkleguard']","['Downy Liquid Fabric', 'In-Wash Scent Boosters 5.7-6.50 oz', 'Downy Unstopables', 'Downy WrinkleGuard']"
+"['nabisco cookies', '6-20.5 oz']","['NABISCO Cookies', '6-20.5 oz']"
+['clean products'],['Clean Products']
+['aquafina® 20oz bottle'],['Aquafina® 20oz bottle']
+"['tide liquid detergent', 'tide pods']","['Tide Liquid Detergent', 'Tide PODS']"
+[],[]
+['pure premium® bottle'],['PURE PREMIUM® bottle']
+"['dawn ultra', 'dawn platinum powerwash spray', 'dawn platinum foam', 'special value']","['Dawn Ultra', 'Dawn Platinum Powerwash Spray', 'Dawn Platinum Foam', 'Special Value']"
+['venus products'],['Venus Products']
+"['crest toothpaste', 'oz crest cavity', 'tartar control/protection', 'w pep gleem', 'gum detoxify', 'gum enamel variants', 'therapy variants']","['Crest Toothpaste', 'oz Crest Cavity', 'Tartar Control/Protection', 'F&amp;W Pep Gleem', 'Gum Detoxify', 'Gum Enamel variants', 'Therapy variants']"
+[],[]
+['perfect portions™ premium cat food'],['PERFECT PORTIONS™ Premium Cat Food']
+['pine-sol® 40oz+'],['Pine-Sol® 40oz+']
+['max savings $'],['Max Savings']
+['long life'],['Long Life']
+"['shoulders products', 'royal oils', ""men 's styling""]","['Shoulders Products', 'Royal Oils', ""Men's Styling""]"
+['nestlé® frozen novelties 4ct'],['Nestlé® Frozen Novelties 4ct']
+"['pantene product', 'gold series collection', 'intense rescue shot']","['Pantene Product', 'Gold Series Collection', 'Intense Rescue Shot']"
+['all® liquid laundry detergent'],['all® liquid laundry detergent']
+['outshine® fruit'],['Outshine® fruit']
+['energizer® batteries'],['Energizer® Batteries']
+"['cascade dishwasher detergent', 'rinse aid']","['Cascade Dishwasher Detergent', 'Rinse Aid']"
+"['herbal essences bio', 'styling products', 'ml shampoo']","['Herbal Essences bio', 'Styling Products', 'mL Shampoo']"
+"['air wick®', 'essential mist™ starter kit']","['Air Wick®', 'Essential Mist™']"
+"['lb bag', 'dog chow® dry dog food']","['lb bag', 'Dog Chow® Dry Dog Food']"
+['cascade actionpacs dishwasher detergent'],['Cascade ActionPacs Dishwasher Detergent']
+"[""hershey 's kisses""]","[""HERSHEY'S Kisses""]"
+"['lipton® 12pk', '16.9oz bottles', '128oz jug']","['Lipton® 12pk', '16.9oz bottles', '128oz Jug']"
+"['pace® salsa', 'picante sauce']","['Pace® Salsa', 'Picante Sauce']"
+"['herbal essences shampoo', 'styling products']","['Herbal Essences Shampoo', 'Styling Products']"
+"['glade® 3-wick candles', 'twin pack 3.4oz candles', 'oil refill pack', 'large automatic refills', '3.4oz candles', 'oil warmer']","['Twin Pack 3.4oz Candles', 'Oil Refill Pack', 'Large Automatic Refills', 'Oil Warmer']"
+['fixodent adhesive'],['Fixodent Adhesive']
+"['aussie shampoo', 'styling products']","['Aussie Shampoo', 'Styling Products']"
+"['dial® body', 'tone® body', '/ s']","['Dial® Body', 'Tone® Body']"
+['snuggle® island exhilarations liquid fabric softener'],['Liquid Fabric Softener']
+"['raid® product', 'raid® club']",['Raid® product&nbsp;(excludes Raid® Club']
+"['garnier fructis', 'whole blends', 'skinactive product']","['Garnier Fructis', 'Whole Blends', 'SkinActive product']"
+"['crest gum detoxify', 'enamel repair']","['Crest Gum Detoxify', 'Enamel Repair']"
+"['air wick®', 'essential mist™ refill']","['Air Wick®', 'Essential Mist™ Refill']"
+['crest mouthwash'],['Crest Mouthwash']
+['aleve®pm product 40ct'],['Aleve®PM product 40ct']
+['flavors cesar® wet dog food'],['flavors CESAR® Wet Dog Food']
+['pull-ups® training pants'],['PULL-UPS® Training Pants']
+['extra® refreshers 40ct bottles'],['EXTRA® REFRESHERS 40CT Bottles']
+"[""jack link's® beef jerky""]","[""Jack Link's® Beef Jerky""]"
+['hair product'],['Hair Product']
+"['schick® hydro silk3®', 'intuition® razor']","['Schick® Hydro', 'Intuition® Razor']"
+"['gillette razor', 'venus products']","['Gillette Razor', 'Venus Products']"
+['venus razor'],['Venus Razor']
+['adult zyrtec® product'],['Adult ZYRTEC® product']
+['prilosec otc product'],['Prilosec OTC Product']
+"['® product', '® products']","['® Product&nbsp;(Excludes Club', '® Products']"
+"['fixodent cleanser tabs', 'fixodent ultra max hold denture adhesive']","['Fixodent Cleanser Tabs', 'Fixodent Ultra Max Hold Denture Adhesive']"
+"['benadryl® 20ct', '4oz product']","['BENADRYL® 20ct', '4oz product']"
+['osteo bi-flex® product'],['Osteo Bi-Flex® product']
+['colgate® optic white® renewal toothpaste'],['Colgate® Optic White® Renewal Toothpaste']
+"['pantene pro-v ingredients', 'rescue shots products', 'gold series collection', 'intense rescue shot']","['Pantene Pro-V Ingredients', 'Rescue Shots Products', 'Gold Series Collection', 'Intense Rescue Shot']"
+"['allegra® allergy 24ct', ""children 's allegra® product""]","['Allegra® Allergy 24ct', ""Children's Allegra® Product""]"
+['nexium® 24hr 28ct'],['Nexium® 24HR 28ct']
+['bridgford sweet baby ray ’ s sausage sticks 6oz'],['Sweet Baby Ray’s Sausage Sticks 6oz']
+['nivea® body'],['NIVEA® Body']
+"[""children 's claritin® syrup 4oz""]","[""Children's Claritin® Syrup 4oz""]"
+[],[]
+[],[]
+"['banana boat®', 'hawaiian tropic® sun care product', 'lip balm']","['Banana Boat®', 'Hawaiian Tropic® Sun Care Product', 'lip balm']"
+['claritin® 20ct'],['Claritin® 20ct']
+"['multipack sheba®', 'perfect portions™ premium cat food']","['multipack SHEBA®', 'PERFECT PORTIONS™ Premium Cat Food']"
+"['automatic dishwasher detergent max', '1® 24ct']","['Automatic Dishwasher Detergent Max', '1® 24ct']"
+['special care oral rinse'],['Special Care Oral Rinse']
+['maxwell house'],['MAXWELL HOUSE']
+"['new kingsford® wood pellets', 'classic blend']","['NEW Kingsford® Wood Pellets', 'Classic Blend']"
+['degree products'],['Degree products']
+['quaker products'],['Quaker Products']
+['oz.tresemmé® product'],['TRESemmé® product']
+['dgh auto spray refills twin'],['DGH Auto Spray Refills Twin']
+['bayer consumer health products'],['Bayer Consumer Health Products']
+"['sour patch kids', 'swedish fish candy', 'crush soda', 'crush soda']","['SOUR PATCH KIDS', 'SWEDISH FISH Candy', 'Crush Soda']"
+['reese ’ s brand candy'],['REESE’S brand candy']
+[],[]
+['new axe product'],['NEW AXE product']
+"['chips ahoy', '9.5-19.5 oz', 'sour patch kids candy', 'sour patch kids chips ahoy']","['CHIPS AHOY', '9.5-19.5 oz', 'SOUR PATCH KIDS Candy', 'SOUR PATCH KIDS CHIPS AHOY']"
+['suave® products'],['Suave® products']
