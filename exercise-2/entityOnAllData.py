@@ -3,7 +3,7 @@ import pandas as pd
 
 df = pd.read_csv('../coupons_ner_preprocessed.csv')
 
-model = spacy.load('NERModel')
+model = spacy.load('exercise-2/NERModel')
 
 compareEntitity = {'Actual':[],'Prediction':[]}
 
@@ -14,7 +14,7 @@ for i in range(df.shape[0]):
 
 compareEntititydf = pd.DataFrame(compareEntitity)
 
-compareEntititydf.to_csv('compareEntity.csv',index=False)
+compareEntititydf.to_csv('exercise-2/compareEntity.csv',index=False)
 
 
     

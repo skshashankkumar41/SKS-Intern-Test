@@ -8,7 +8,7 @@ ap.add_argument("-w", "--text", required = True, help="Input text")
 args = vars(ap.parse_args())
 
 def getEntity(text):
-    model = spacy.load('NERModel')
+    model = spacy.load('exercise-2/NERModel')
     doc = model(text)
     res = {ent.label_:ent.text for ent in doc.ents}
     print(res)

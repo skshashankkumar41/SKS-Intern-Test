@@ -10,6 +10,12 @@
 <pre><code class="has-line-data" data-line-start="14" data-line-end="16"> python exercise-1/checkPerformance.py 
 </code></pre>
 </li>
+<li class="has-line-data" data-line-start="17" data-line-end="24">
+<p class="has-line-data" data-line-start="17" data-line-end="18"><strong>Results</strong></p>
+<pre><code class="has-line-data" data-line-start="19" data-line-end="23">python exercise-1/getFaceValue.py --text &quot;Save $1.00 on any ONE (1) Gardein™ Frozen Item&quot; 
+OUTPUT --&gt; $1.00
+</code></pre>
+</li>
 </ul>
 <h2 class="code-line" data-line-start=17 data-line-end=18 ><a id="Exercise_2_17"></a>Exercise 2</h2>
 <ul>
@@ -26,6 +32,10 @@
 </code></pre>
 <p class="has-line-data" data-line-start="32" data-line-end="33"><strong><a href="https://github.com/skshashankkumar41/SKS-Intern-Test/blob/master/exercise-2/entityOnAllData.py">entityOnAllData.py</a></strong> - It just creates the dataframe showing actual and predicted entities on our created ner dataset</p>
 <pre><code class="has-line-data" data-line-start="34" data-line-end="36"> python exercise-2/entityOnAllData.py 
+<li class="has-line-data" data-line-start="44" data-line-end="51">
+<p class="has-line-data" data-line-start="44" data-line-end="45"><strong>Results</strong></p>
+<pre><code class="has-line-data" data-line-start="46" data-line-end="50">python exercise-2/getEntity.py --text &quot;Save $1.00 on any ONE (1) Gardein™ Frozen Item&quot; 
+OUTPUT --&gt; {'Product': 'Gardein™ Frozen Item'}
 </code></pre>
 </li>
 </ul>
